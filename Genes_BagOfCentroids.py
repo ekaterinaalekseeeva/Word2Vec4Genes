@@ -19,7 +19,6 @@ import time
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
-
 import Genes_BagOfWords
 
 
