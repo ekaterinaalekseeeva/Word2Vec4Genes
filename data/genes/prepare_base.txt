@@ -1,0 +1,9 @@
+В tmp.tsv запихать обрывки кодирующих (напр. human_cdna) или некодирующих (nrna) последовательностей. Или и то, и то (?). Первой строчкой добавить "id;isgene;sequence" для обучающей базы или "id;sequence" для тестовой
+
+Запустить prepare_train_base (или prepare_test_base), выбрать нужный выходной файл (или уже оставить по умолчанию везде genesTestData и genesTrainData).
+
+	> Опционально, если все собиралось по отдельности: вручную собрать в один файл (genesTestData или genesTrainData) кодирующие и некодирующие вместе.
+
+Запихнуть этот файл в wrap_codones. На выходе genesTestDataCodones и genesTrainDataCodones.
+
+Запихнуть их в shuffle, на выходе genesTrainDataShuffle и genesTestDataShuffle.

@@ -1,0 +1,45 @@
+Word2Vec_AverageVectors.csv2017-03-20 23:31:04.410000
+Total analysed seqs  = 46537
+Right results = 27633(% of total = 59.3785589961)
+Wrong results = 18904(% of total = 40.6214410039)
+False-positive results  = 2430(% of all wrong = 12.8544223445)
+False-negative results = 16474(% of all wrong = 87.1455776555)
+
+ ----------------------------------------
+
+Bag_of_Words_model.csv 2017-03-20 23:31:33.131000
+Total analysed seqs  = 46537
+Right results = 25091(% of total = 53.9162386918)
+Wrong results = 21446(% of total = 46.0837613082)
+False-positive results  = 3040(% of all wrong = 14.1751375548)
+False-negative results = 18406(% of all wrong = 85.8248624452)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-03-21 14:24:36.481000
+Total analysed seqs  = 46537
+Right results = 26039(% of total = 55.9533274599)
+Wrong results = 20498(% of total = 44.0466725401)
+False-positive results  = 2815(% of all wrong = 13.7330471265)
+False-negative results = 17683(% of all wrong = 86.2669528735)
+
+ ----------------------------------------
+
+Bag_of_Words_model.csv 2017-03-28 23:43:29.886000
+Total analysed seqs  = 46537
+Right results = 25158(% of total = 54.0602101554)
+Wrong results = 21379(% of total = 45.9397898446)
+False-positive results  = 3011(% of all wrong = 14.0839141213)
+False-negative results = 18368(% of all wrong = 85.9160858787)
+
+ ----------------------------------------
+
+Bag_of_Words_model.csv 2017-03-29 01:42:52.993000
+Total analysed seqs  = 46537
+Right results = 25131(% of total = 54.0021918044)
+Wrong results = 21406(% of total = 45.9978081956)
+False-positive results  = 3021(% of all wrong = 14.1128655517)
+False-negative results = 18385(% of all wrong = 85.8871344483)
+
+ ----------------------------------------
+
