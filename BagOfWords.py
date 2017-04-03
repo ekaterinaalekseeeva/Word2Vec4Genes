@@ -19,9 +19,9 @@ import pandas as pd
 import numpy as np
 
 if __name__ == '__main__':
-    train = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data', 'labeledTrainData.tsv'), header=0, \
+    train = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data/reviews', 'labeledTrainData.tsv'), header=0, \
                     delimiter="\t", quoting=3)
-    test = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data', 'testData.tsv'), header=0, delimiter="\t", \
+    test = pd.read_csv(os.path.join(os.path.dirname(__file__), 'data/reviews', 'testData.tsv'), header=0, delimiter="\t", \
                    quoting=3 )
 
     print 'The first review is:'
