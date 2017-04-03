@@ -91,8 +91,6 @@ if __name__ == '__main__':
         # print words
 
 
-
-
     # Create clean_train_reviews and clean_test_reviews as we did before
     #
 
