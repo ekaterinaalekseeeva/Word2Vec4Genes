@@ -43,3 +43,12 @@ False-negative results = 18385(% of all wrong = 85.8871344483)
 
  ----------------------------------------
 
+Bag_of_Words_model.csv 2017-04-04 00:02:04.437000
+Total analysed seqs  = 46537
+Right results = 25131(% of total = 54.0021918044)
+Wrong results = 21406(% of total = 45.9978081956)
+False-positive results  = 3021(% of all wrong = 14.1128655517)
+False-negative results = 18385(% of all wrong = 85.8871344483)
+
+ ----------------------------------------
+
