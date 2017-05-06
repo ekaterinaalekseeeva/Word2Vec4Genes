@@ -24,14 +24,14 @@ import Genes_BagOfWords
 
 # Define a function to create bags of centroids
 #
-def create_bag_of_centroids( wordlist, word_centroid_map ):
+def create_bag_of_centroids(wordlist, word_centroid_map):
     #
     # The number of clusters is equal to the highest cluster index
     # in the word / centroid map
-    num_centroids = max( word_centroid_map.values() ) + 1
+    num_centroids = max(word_centroid_map.values()) + 1
     #
     # Pre-allocate the bag of centroids vector (for speed)
-    bag_of_centroids = np.zeros( num_centroids, dtype="float32" )
+    bag_of_centroids = np.zeros(num_centroids, dtype="float32")
     #
     # Loop over the words in the review. If the word is in the vocabulary,
     # find which cluster it belongs to, and increment that cluster count
@@ -47,13 +47,16 @@ def create_bag_of_centroids( wordlist, word_centroid_map ):
 
 if __name__ == '__main__':
 
-    model = Word2Vec.load("data/genes/300features_64minwords_10context")
-
+    # model = Word2Vec.load("data/genes/300features_64minwords_10context")
+    # model = Word2Vec.load("data/genes/300features_0minwords_30context")
+    # model = Word2Vec.load("data/genes/skipgram300features_0minwords_30context")
+    # model = Word2Vec.load("data/genes/skipgram10features_1context_0downsampling")
+    model = Word2Vec.load("data/genes/ORFskipgram10features_1context_0downsampling")
 
     # ****** Run k-means on the word vectors and print a few clusters
     #
 
-    start = time.time() # Start time
+    start = time.time()  # Start time
 
     # Set "k" (num_clusters) to be 1/5th of the vocabulary size, or an
     # average of 5 words per cluster
@@ -62,34 +65,32 @@ if __name__ == '__main__':
 
     # Initalize a k-means object and use it to extract centroids
     print "Running K means"
-    kmeans_clustering = KMeans( n_clusters = num_clusters )
-    idx = kmeans_clustering.fit_predict( word_vectors )
+    kmeans_clustering = KMeans(n_clusters=num_clusters)
+    idx = kmeans_clustering.fit_predict(word_vectors)
 
     # Get the end time and print how long the process took
     end = time.time()
     elapsed = end - start
     print "Time taken for K Means clustering: ", elapsed, "seconds."
 
-
     # Create a Word / Index dictionary, mapping each vocabulary word to
     # a cluster number
-    word_centroid_map = dict(zip( model.index2word, idx ))
+    word_centroid_map = dict(zip(model.index2word, idx))
 
     # Print the first ten clusters
-    for cluster in xrange(0,10):
+    for cluster in xrange(0, 10):
         #
         # Print the cluster number
         print "\nCluster %d" % cluster
         #
         # Find all of the words for that cluster number, and print them out
         words = []
-        for i in xrange(0,len(word_centroid_map.values())):
-            if( word_centroid_map.values()[i] == cluster ):
+        for i in xrange(0, len(word_centroid_map.values())):
+            if (word_centroid_map.values()[i] == cluster):
                 words.append(word_centroid_map.keys()[i])
 
         print 'words[] length ' + str(len(words))
-        # print words
-
+        print words
 
     # Create clean_train_reviews and clean_test_reviews as we did before
     #
@@ -97,7 +98,6 @@ if __name__ == '__main__':
     # Read data from files
     train = pd.read_csv("data/genes/genesTrainDataShuffle.tsv", header=0, delimiter=";", quoting=3)
     test = pd.read_csv("data/genes/genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
-
 
     print "Cleaning training reviews"
     clean_train_reviews = []
@@ -109,41 +109,39 @@ if __name__ == '__main__':
     for review in test["sequence"]:
         clean_test_reviews.append(Genes_BagOfWords.sequence_to_codons(review))
 
-
     # ****** Create bags of centroids
     #
     # Pre-allocate an array for the training set bags of centroids (for speed)
-    train_centroids = np.zeros( (train["sequence"].size, num_clusters), \
-        dtype="float32" )
+    train_centroids = np.zeros((train["sequence"].size, num_clusters), \
+                               dtype="float32")
 
     # Transform the training set reviews into bags of centroids
     counter = 0
     for review in clean_train_reviews:
-        train_centroids[counter] = create_bag_of_centroids( review, \
-            word_centroid_map )
+        train_centroids[counter] = create_bag_of_centroids(review, \
+                                                           word_centroid_map)
         counter += 1
 
     # Repeat for test reviews
-    test_centroids = np.zeros(( test["sequence"].size, num_clusters), \
-        dtype="float32" )
+    test_centroids = np.zeros((test["sequence"].size, num_clusters), \
+                              dtype="float32")
 
     counter = 0
     for review in clean_test_reviews:
-        test_centroids[counter] = create_bag_of_centroids( review, \
-            word_centroid_map )
+        test_centroids[counter] = create_bag_of_centroids(review, \
+                                                          word_centroid_map)
         counter += 1
-
 
     # ****** Fit a random forest and extract predictions
     #
-    forest = RandomForestClassifier(n_estimators = 100)
+    forest = RandomForestClassifier(n_estimators=100)
 
     # Fitting the forest may take a few minutes
     print "Fitting a random forest to labeled training data..."
-    forest = forest.fit(train_centroids,train["isgene"])
+    forest = forest.fit(train_centroids, train["isgene"])
     result = forest.predict(test_centroids)
 
     # Write the test results
-    output = pd.DataFrame(data={"id":test["id"], "isgene":result})
+    output = pd.DataFrame(data={"id": test["id"], "isgene": result})
     output.to_csv("data/genes/BagOfCentroids.csv", index=False, quoting=3)
     print "Wrote BagOfCentroids.csv"

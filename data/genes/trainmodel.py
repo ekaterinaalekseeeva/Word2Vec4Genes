@@ -92,17 +92,17 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', \
                     level=logging.INFO)
 
 # Set values for various parameters
-num_features = 300  # Word vector dimensionality
-min_word_count = 64  # Minimum word count
+num_features = 10  # Word vector dimensionality
+min_word_count = 1  # Minimum word count
 num_workers = 4  # Number of threads to run in parallel
-context = 10  # Context window size
-downsampling = 1e-3  # Downsample setting for frequent words
+context = 1  # Context window size
+downsampling = 0  # Downsample setting for frequent words
 
 # Initialize and train the model (this will take some time)
 from gensim.models import word2vec
 
 print "Training model..."
-model = word2vec.Word2Vec(sentences, workers=num_workers, \
+model = word2vec.Word2Vec(sentences, sg=1, workers=num_workers, \
                           size=num_features, min_count=min_word_count, \
                           window=context, sample=downsampling)
 
@@ -112,5 +112,5 @@ model.init_sims(replace=True)
 
 # It can be helpful to create a meaningful model name and
 # save the model for later use. You can load it later using Word2Vec.load()
-model_name = "300features_64minwords_10context"
+model_name = "ORFskipgram10features_1context_0downsampling"
 model.save(model_name)

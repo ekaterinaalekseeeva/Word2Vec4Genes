@@ -2,10 +2,10 @@ import random
 
 
 # in_file = open('genesTrainData_codones.tsv')
-in_file = open('genesUnlabeledTrainData_codones.tsv')
-# in_file = open('genesTestData_codones.tsv')
-# out = open('genesTestDataShuffle.tsv', 'w+')
-out = open('genesUnlabeledTrainDataShuffle.tsv', 'w+')
+# in_file = open('genesUnlabeledTrainData_codones.tsv')
+in_file = open('genesTestData_codones.tsv')
+out = open('genesTestDataShuffle.tsv', 'w+')
+# out = open('genesUnlabeledTrainDataShuffle.tsv', 'w+')
 # out = open('genesTrainDataShuffle.tsv', 'w+')
 
 lines = []

@@ -43,12 +43,83 @@ False-negative results = 18385(% of all wrong = 85.8871344483)
 
  ----------------------------------------
 
+Bag_of_Words_model.csv 2017-03-29 01:48:44.709000
+Total analysed seqs  = 46537
+Right results = 25132(% of total = 54.0043406322)
+Wrong results = 21405(% of total = 45.9956593678)
+False-positive results  = 3044(% of all wrong = 14.2209764074)
+False-negative results = 18361(% of all wrong = 85.7790235926)
+
+ ----------------------------------------
+
 Bag_of_Words_model.csv 2017-04-04 00:02:04.437000
 Total analysed seqs  = 46537
 Right results = 25131(% of total = 54.0021918044)
 Wrong results = 21406(% of total = 45.9978081956)
 False-positive results  = 3021(% of all wrong = 14.1128655517)
 False-negative results = 18385(% of all wrong = 85.8871344483)
+
+ ----------------------------------------
+Bag_of_Words_model.csv 2017-04-24 19:32:46.097000 "char" instead of "words"
+Total analysed seqs  = 46537
+Right results = 23689(% of total = 50.903582096)
+Wrong results = 22848(% of total = 49.096417904)
+False-positive results  = 3729(% of all wrong = 16.3209033613)
+False-negative results = 19119(% of all wrong = 83.6790966387)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-04-25 23:12:29.201000 model 0minword30context
+Total analysed seqs  = 46537
+Right results = 26217(% of total = 56.3358188108)
+Wrong results = 20320(% of total = 43.6641811892)
+False-positive results  = 2759(% of all wrong = 13.5777559055)
+False-negative results = 17561(% of all wrong = 86.4222440945)
+
+ ----------------------------------------
+
+Word2Vec_AverageVectors.csv 2017-04-25 23:25:35.197000 model 0minword30context
+Total analysed seqs  = 46537
+Right results = 27633(% of total = 59.3785589961)
+Wrong results = 18904(% of total = 40.6214410039)
+False-positive results  = 2430(% of all wrong = 12.8544223445)
+False-negative results = 16474(% of all wrong = 87.1455776555)
+
+ ----------------------------------------
+
+Word2Vec_AverageVectors.csv 2017-04-26 01:21:39.101000 skipgram
+Total analysed seqs  = 46537
+Right results = 27633(% of total = 59.3785589961)
+Wrong results = 18904(% of total = 40.6214410039)
+False-positive results  = 2430(% of all wrong = 12.8544223445)
+False-negative results = 16474(% of all wrong = 87.1455776555)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-04-26 01:27:28.683000 skipgram
+Total analysed seqs  = 46537
+Right results = 25323(% of total = 54.4147667447)
+Wrong results = 21214(% of total = 45.5852332553)
+False-positive results  = 2963(% of all wrong = 13.9671914773)
+False-negative results = 18251(% of all wrong = 86.0328085227)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-02 17:29:25.652000 skipgram10features_1context_0downsampling
+Total analysed seqs  = 46537
+Right results = 25690(% of total = 55.2033865526)
+Wrong results = 20847(% of total = 44.7966134474)
+False-positive results  = 2863(% of all wrong = 13.7333908956)
+False-negative results = 17984(% of all wrong = 86.2666091044)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-05 00:04:26.791000
+Total analysed seqs  = 139609
+Right results = 77359(% of total = 55.4111840927)
+Wrong results = 62250(% of total = 44.5888159073)
+False-positive results  = 8526(% of all wrong = 13.6963855422)
+False-negative results = 53724(% of all wrong = 86.3036144578)
 
  ----------------------------------------
 

@@ -1,7 +1,7 @@
 from datetime import datetime
 
-in_file = open('Bag_of_Words_model.csv')
-# in_file = open('BagOfCentroids.csv')
+# in_file = open('Bag_of_Words_model.csv')
+in_file = open('BagOfCentroids.csv')
 # in_file = open('Word2Vec_AverageVectors.csv')
 out = open ('analyse_results.txt', 'a')
 
@@ -11,7 +11,7 @@ geneCalledNC = 0
 ncCalledGene = 0
 total = 0
 for line in in_file.readlines():
-    if line.startswith('>ENSG'):
+    if line.count('>ENSG') > 0:
         if line.count(',1') > 0:
             true_res += 1
         else:
