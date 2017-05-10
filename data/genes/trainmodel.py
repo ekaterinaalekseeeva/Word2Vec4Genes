@@ -57,13 +57,16 @@ def sequence_to_sentences(sequence, tokenizer):
 train = pd.read_csv("genesTrainDataShuffle.tsv", header=0,
                     delimiter=";", quoting=3)
 test = pd.read_csv("genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
-unlabeled_train = pd.read_csv("genesUnlabeledTrainDataShuffle.tsv", header=0,
-                              delimiter=";", quoting=3)
+# unlabeled_train = pd.read_csv("genesUnlabeledTrainDataShuffle.tsv", header=0,
+#                               delimiter=";", quoting=3)
 
 # Verify the number of reviews that were read (100,000 in total)
-print "Read %d labeled train reviews, %d labeled test reviews, " \
-      "and %d unlabeled reviews\n" % (train["sequence"].size,
-                                      test["sequence"].size, unlabeled_train["sequence"].size)
+# print "Read %d labeled train reviews, %d labeled test reviews, " \
+#       "and %d unlabeled reviews\n" % (train["sequence"].size,
+#                                       test["sequence"].size, unlabeled_train["sequence"].size)
+
+print "Read %d labeled train reviews and %d labeled test reviews, " % (train["sequence"].size,
+                                      test["sequence"].size)
 
 
 # Download the punkt tokenizer for sentence splitting
@@ -79,9 +82,9 @@ for sequence in train["sequence"]:
     sentences += sequence_to_sentences(sequence, tokenizer)
     # sentences += sequence_to_sentences(sequence)
 
-print "Parsing sentences from unlabeled set"
-for sequence in unlabeled_train["sequence"]:
-    sentences += sequence_to_sentences(sequence, tokenizer)
+# print "Parsing sentences from unlabeled set"
+# for sequence in unlabeled_train["sequence"]:
+#     sentences += sequence_to_sentences(sequence, tokenizer)
     # sentences += sequence_to_sentences(sequence)
 
 # Import the built-in logging module and configure it so that Word2Vec

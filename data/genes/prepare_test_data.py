@@ -1,5 +1,5 @@
 def prepare_test_data():
-    in_file = open('tmp.tsv')
+    in_file = open('testtmp.tsv')
     out = open('genesTestData.tsv', 'w+')
     # out = open('data/genes/nrna_test.tsv', 'w+')
     # tmp = open('data/genes/tmp.tsv', 'r+')
@@ -19,8 +19,12 @@ def prepare_test_data():
             else:
                 l = lines[i]
             if lines[i].startswith('>'):
-                if len(lines[i]) > 40:
+                if lines[i].startswith('>ENS'):
                     l = l[:18]
+                    # l += ';'
+                else:
+                    l = l[:9]
+                    # l += ';'
                 l += ';'
         out.write(l)
 

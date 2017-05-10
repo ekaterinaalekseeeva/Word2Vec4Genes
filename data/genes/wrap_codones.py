@@ -28,52 +28,56 @@ for line in in_file.readlines():
         start = line[:index]#.strip()
         end = line[index:].rstrip()
         # end = end.rstrip()
-        # l = ''
-
-        # Open reading frame 1
+        l = ''
         tmp = []
-        tmp = wrap(end, 3)
-        tmp2 = ''
-        for t in tmp:
-            # print t
-            if len(t) == 3:
-                tmp2 += t + ' '
-        out.write("ORF1" +start + tmp2 + '\n')
 
-        # Open reading frame 2
-        tmp = wrap(end[1:], 3)
-        tmp2 = ''
-        for t in tmp:
-            # print t
-            if len(t) == 3:
-                tmp2 += t + ' '
-        out.write("ORF2" + start + tmp2 + '\n')
+        # If sequence is not multiples of three, provide 3 variants of ORF
+        if len(end) % 3 != 0:
+            # Open reading frame 1
+            tmp = wrap(end, 3)
+            tmp2 = ''
+            for t in tmp:
+                # print t
+                if len(t) == 3:
+                    tmp2 += t + ' '
+            out.write("ORF1" +start + tmp2 + '\n')
 
-        #Open reading frame 3
-        tmp = wrap(end[2:], 3)
-        tmp2 = ''
-        for t in tmp:
-            # print t
-            if len(t) == 3:
+            # Open reading frame 2
+            tmp = wrap(end[1:], 3)
+            tmp2 = ''
+            for t in tmp:
+                # print t
+                if len(t) == 3:
+                    tmp2 += t + ' '
+            out.write("ORF2" + start + tmp2 + '\n')
+
+            #Open reading frame 3
+            tmp = wrap(end[2:], 3)
+            tmp2 = ''
+            for t in tmp:
+                # print t
+                if len(t) == 3:
+                    tmp2 += t + ' '
+            out.write("ORF3" + start + tmp2 + '\n')
+        # For those that are multiples of three just divide it to codons
+        else:
+            # if len(end) % 3 == 0:
+                # print '0'
+            tmp = wrap(end, 3)
+            # if len(end) % 3 == 1:
+            #     print str(i) + ' 1'
+            #     l += end[:1] + ' '
+            #     tmp = wrap(end[1:], 3)
+            # if len(end) % 3 == 2:
+            #     print str(i) + '2'
+            #     l += end[:2] + ' '
+            #     tmp = wrap(end[2:], 3)
+            tmp2 = ''
+            for t in tmp:
+                # print t
                 tmp2 += t + ' '
-        out.write("ORF3" + start + tmp2 + '\n')
-        # if len(end) % 3 == 0:
-        #     # print '0'
-        # tmp = wrap(end, 3)
-        # if len(end) % 3 == 1:
-        #     # print '1'
-        #     l += end[:1] + ' '
-        #     tmp = wrap(end[1:], 3)
-        # if len(end) % 3 == 2:
-        #     # print '2'
-        #     l += end[:2] + ' '
-        #     tmp = wrap(end[2:], 3)
-        # tmp2 = ''
-        # for t in tmp:
-        #     # print t
-        #     tmp2 += t + ' '
-        # l += tmp2
-        # out.write(start + l + '\n')
+            l += tmp2
+            out.write(start + l + '\n')
     i += 1
 
 

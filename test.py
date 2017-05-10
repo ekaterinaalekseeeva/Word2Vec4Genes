@@ -1,15 +1,15 @@
 from gensim.models import Word2Vec
 
-model = Word2Vec.load("data/genes/skipgram10features_1context_0downsampling")
+model = Word2Vec.load("data/genes/ProkariotesORFskipgram10features_1context_0downsampling")
 
-# print(model.similarity("atg", "tag"))
-# print(model.similarity("atg", "ccg"))
-# print(model.similarity("atg", "aag"))
-# print(model.similarity("atg", "aaa"))
-# print(model.similarity("tag", "taa"))
-# print(model.similarity("tag", "tga"))
-# print(model.similarity("ttt", "ggg"))
-# print(model.similarity("ttt", "gtc"))
+print(model.similarity("atg", "tag"))
+print(model.similarity("atg", "ccg"))
+print(model.similarity("atg", "aag"))
+print(model.similarity("atg", "aaa"))
+print(model.similarity("tag", "taa"))
+print(model.similarity("tag", "tga"))
+print(model.similarity("ttt", "ggg"))
+print(model.similarity("ttt", "gtc"))
 
 codons = ["aaa", "aat", "aac", "aag",
           "ata", "att", "atc", "atg",

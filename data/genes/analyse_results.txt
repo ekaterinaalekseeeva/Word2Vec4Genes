@@ -123,3 +123,166 @@ False-negative results = 53724(% of all wrong = 86.3036144578)
 
  ----------------------------------------
 
+BagOfCentroids.csv 2017-05-08 22:56:33.370000 (в analyse_results не учитывались мышки)
+Total analysed seqs  = 36516
+Right results = 28779(% of total = 78.8120276043)
+Wrong results = 7737(% of total = 21.1879723957)
+False-positive results  = 7737(% of all wrong = 100.0)
+False-negative results = 0(% of all wrong = 0.0)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-08 23:09:04.619000 (мышек учли, но неправильно)
+Total analysed seqs  = 36516
+Right results = 20188(% of total = 55.2853543652)
+Wrong results = 16328(% of total = 44.7146456348)
+False-positive results  = 7723(% of all wrong = 47.2991180794)
+False-negative results = 8605(% of all wrong = 52.7008819206)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 15:43:14.034000 (все еще неправильное условие в analyse_results, ищущее человечьи гены как гены, и мышиные не-гены тоже как гены)
+Total analysed seqs  = 27897
+Right results = 20599(% of total = 73.8394809478)
+Wrong results = 7298(% of total = 26.1605190522)
+False-positive results  = 7298(% of all wrong = 100.0)
+False-negative results = 0(% of all wrong = 0.0)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 15:49:23.737000
+Total analysed seqs  = 27897
+Right results = 26618(% of total = 95.4152776284)
+Wrong results = 1279(% of total = 4.58472237158)
+False-positive results  = 1244(% of all wrong = 97.2634870993)
+False-negative results = 35(% of all wrong = 2.7365129007)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 15:54:51.016000
+Total analysed seqs  = 27896
+Right results = 26617(% of total = 95.4151132779)
+Wrong results = 1279(% of total = 4.58488672211)
+False-positive results  = 1244(% of all wrong = 97.2634870993)
+False-negative results = 35(% of all wrong = 2.7365129007)
+
+ ----------------------------------------
+
+
+BagOfCentroids.csv 2017-05-10 16:17:12.689000 (без мышей, как будто бы все ок)
+Total analysed seqs  = 27896
+Right results = 26617(% of total = 95.4151132779)
+Wrong results = 1279(% of total = 4.58488672211)
+False-positive results  = 1244(% of all wrong = 97.2634870993)
+False-negative results = 35(% of all wrong = 2.7365129007)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 16:58:43.252000 (с мышами, как будто бы все ок) (10 фич)
+Total analysed seqs  = 36515
+Right results = 34577(% of total = 94.6925920854)
+Wrong results = 1938(% of total = 5.30740791456)
+False-positive results  = 1891(% of all wrong = 97.5748194014)
+False-negative results = 47(% of all wrong = 2.42518059856)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:21:46.018000 (5 фич, результат похуже с т.з. соотношения в неправильных ответах)
+Total analysed seqs  = 36515
+Right results = 34664(% of total = 94.9308503355)
+Wrong results = 1851(% of total = 5.06914966452)
+False-positive results  = 1681(% of all wrong = 90.8157752566)
+False-negative results = 170(% of all wrong = 9.18422474338)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:26:02.470000 (15 фич, немношк лучше 10)
+Total analysed seqs  = 36515
+Right results = 34882(% of total = 95.5278652609)
+Wrong results = 1633(% of total = 4.47213473915)
+False-positive results  = 1592(% of all wrong = 97.4892835273)
+False-negative results = 41(% of all wrong = 2.51071647275)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:29:22.654000 (50 фич еще лучше, но хуже соотношение в неправильных)
+Total analysed seqs  = 36515
+Right results = 35165(% of total = 96.3028892236)
+Wrong results = 1350(% of total = 3.69711077639)
+False-positive results  = 1274(% of all wrong = 94.3703703704)
+False-negative results = 76(% of all wrong = 5.62962962963)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:34:48.794000  (100 фич - уже практически неотличимо)
+Total analysed seqs  = 36515
+Right results = 35133(% of total = 96.2152540052)
+Wrong results = 1382(% of total = 3.7847459948)
+False-positive results  = 1303(% of all wrong = 94.2836468886)
+False-negative results = 79(% of all wrong = 5.71635311143)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:38:13.866000 (300 фич -- внезапно заметно лучше в распределении неправильных, но чуть хуже в целом)
+Total analysed seqs  = 36515
+Right results = 34847(% of total = 95.4320142407)
+Wrong results = 1668(% of total = 4.56798575928)
+False-positive results  = 1640(% of all wrong = 98.3213429257)
+False-negative results = 28(% of all wrong = 1.67865707434)
+
+ ----------------------------------------
+
+BagOfCentroids.csv 2017-05-10 17:41:01.989000 (300 фич, разультат как у 100 и 50, просто перезапуск bag of centroids => эти "гуляния" процентов не зависят особо от самой модели уже)
+Total analysed seqs  = 36515
+Right results = 35223(% of total = 96.461728057)
+Wrong results = 1292(% of total = 3.53827194304)
+False-positive results  = 1220(% of all wrong = 94.427244582)
+False-negative results = 72(% of all wrong = 5.57275541796)
+
+ ----------------------------------------
+
+Word2Vec_AverageVectors.csv 2017-05-10 17:47:50.051000 (не тот файл, не обращать внимание)
+Total analysed seqs  = 46536
+Right results = 27632(% of total = 59.3776860925)
+Wrong results = 18904(% of total = 40.6223139075)
+False-positive results  = 16474(% of all wrong = 87.1455776555)
+False-negative results = 2430(% of all wrong = 12.8544223445)
+
+ ----------------------------------------
+
+Genes_AverageVectors.csv 2017-05-10 17:51:34.542000 (15 фич)
+Total analysed seqs  = 36515
+Right results = 34111(% of total = 93.4164042174)
+Wrong results = 2404(% of total = 6.58359578256)
+False-positive results  = 2400(% of all wrong = 99.8336106489)
+False-negative results = 4(% of all wrong = 0.166389351082)
+
+ ----------------------------------------
+
+Genes_AverageVectors.csv 2017-05-10 17:55:23.165000 (10 фич)
+Total analysed seqs  = 36515
+Right results = 33597(% of total = 92.0087635218)
+Wrong results = 2918(% of total = 7.99123647816)
+False-positive results  = 2911(% of all wrong = 99.7601096642)
+False-negative results = 7(% of all wrong = 0.239890335846)
+
+ ----------------------------------------
+
+Genes_AverageVectors.csv 2017-05-10 17:58:28.926000 (5 фич)
+Total analysed seqs  = 36515
+Right results = 34057(% of total = 93.2685197864)
+Wrong results = 2458(% of total = 6.73148021361)
+False-positive results  = 2352(% of all wrong = 95.6875508544)
+False-negative results = 106(% of all wrong = 4.31244914565)
+
+ ----------------------------------------
+
+Genes_AverageVectors.csv 2017-05-10 18:02:01.961000 (50 фич)
+Total analysed seqs  = 36515
+Right results = 34036(% of total = 93.2110091743)
+Wrong results = 2479(% of total = 6.78899082569)
+False-positive results  = 2476(% of all wrong = 99.8789834611)
+False-negative results = 3(% of all wrong = 0.121016538927)
+
+ ----------------------------------------
+

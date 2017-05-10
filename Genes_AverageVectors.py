@@ -89,12 +89,14 @@ if __name__ == '__main__':
     # Read data from files
     train = pd.read_csv("data/genes/genesTrainDataShuffle.tsv", header=0, delimiter=";", quoting=3)
     test = pd.read_csv("data/genes/genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
-    unlabeled_train = pd.read_csv("data/genes/genesUnlabeledTrainDataShuffle.tsv", header=0, delimiter=";", quoting=3)
+    # unlabeled_train = pd.read_csv("data/genes/genesUnlabeledTrainDataShuffle.tsv", header=0, delimiter=";", quoting=3)
 
     # Verify the number of reviews that were read (100,000 in total)
-    print "Read %d labeled train reviews, %d labeled test reviews, " \
-     "and %d unlabeled reviews\n" % (train["sequence"].size,
-     test["sequence"].size, unlabeled_train["sequence"].size )
+    # print "Read %d labeled train reviews, %d labeled test reviews, " \
+    #  "and %d unlabeled reviews\n" % (train["sequence"].size,
+    #  test["sequence"].size, unlabeled_train["sequence"].size )
+    print "Read %d labeled train reviews and %d labeled test reviews\n" \
+          % (train["sequence"].size, test["sequence"].size)
 
 
     #
@@ -123,7 +125,12 @@ if __name__ == '__main__':
     #     level=logging.INFO)
     #
     # # Set values for various parameters
-    num_features = 300    # Word vector dimensionality
+    # num_features = 300    # Word vector dimensionality
+    # num_features = 15    # Word vector dimensionality
+    # num_features = 15    # Word vector dimensionality
+    num_features = 50    # Word vector dimensionality
+    # num_features = 5    # Word vector dimensionality
+    # num_features = 10    # Word vector dimensionality
     min_word_count = 64   # Minimum word count
     num_workers = 4       # Number of threads to run in parallel
     context = 10          # Context window size
@@ -152,7 +159,12 @@ if __name__ == '__main__':
     # model.most_similar("awful")
 
 
-    model = Word2Vec.load("data/genes/300features_64minwords_10context")
+    # model = Word2Vec.load("data/genes/300features_64minwords_10context")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram15features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram15features_1context_0downsampling")
+    model = Word2Vec.load("data/genes/ProkariotesORFskipgram50features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram5features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram10features_1context_0downsampling")
 
     # ****** Create average vectors for the training and test sets
     #

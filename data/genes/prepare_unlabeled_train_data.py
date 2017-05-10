@@ -22,8 +22,12 @@ def prepare_train_data():
                 l = lines[i]
             if lines[i].startswith('>'):
                 if len(lines[i]) > 40:
-                    l = l[:18]
-                    l += ';'
+                    if lines[i].startswith('>ENS'):
+                        l = l[:18]
+                        l += ';'
+                    else:
+                        l = l[:9]
+                        l += ';'
                 else:
                     l += ';'
             # elif not lines[i].startswith('id'):

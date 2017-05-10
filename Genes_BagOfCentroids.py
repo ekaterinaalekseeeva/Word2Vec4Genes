@@ -51,7 +51,13 @@ if __name__ == '__main__':
     # model = Word2Vec.load("data/genes/300features_0minwords_30context")
     # model = Word2Vec.load("data/genes/skipgram300features_0minwords_30context")
     # model = Word2Vec.load("data/genes/skipgram10features_1context_0downsampling")
-    model = Word2Vec.load("data/genes/ORFskipgram10features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ORFskipgram10features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram10features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram5features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram15features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram50features_1context_0downsampling")
+    # model = Word2Vec.load("data/genes/ProkariotesORFskipgram100features_1context_0downsampling")
+    model = Word2Vec.load("data/genes/ProkariotesORFskipgram300features_1context_0downsampling")
 
     # ****** Run k-means on the word vectors and print a few clusters
     #
