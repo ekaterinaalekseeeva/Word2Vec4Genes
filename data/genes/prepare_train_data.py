@@ -1,5 +1,5 @@
 def prepare_train_data():
-    in_file = open('tmp.tsv')
+    in_file = open('traintmp.tsv')
     out = open('genesTrainData.tsv', 'w+')
     # out = open('data/genes/human_export.tsv', 'w+')
     # out = open('data/genes/nrna.tsv', 'w')
@@ -22,11 +22,14 @@ def prepare_train_data():
                 l = lines[i]
             if lines[i].startswith('>'):
                 # if len(lines[i]) > 40:
-                if lines[i].startswith('>ENS'):
+                if lines[i].startswith('>ENSMUST') or lines[i].startswith('>ENST')or lines[i].startswith('>NCRNA'):  # NCRNA just for sure (but IRL this file should not be applied to Ncdna and Nncrna files)
                     l = l[:18]
                     l += ';0;'
                 else:
-                    l = l[:9]
+                    if lines[i].startswith('>ENS'):
+                        l = l[:18]
+                    else:
+                        l = l[:9]
                     l += ';1;'
                 # else:
                 #     l += ';1;'

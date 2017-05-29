@@ -1,12 +1,8 @@
-#!/usr/bin/python
-
-# encoding=utf8
-
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
-from nltk.corpus import stopwords
 import nltk.data
+import logging
 
 
 def sequence_to_wordlist(sequence):
@@ -52,11 +48,18 @@ def sequence_to_sentences(sequence, tokenizer):
     return sentences
 
 
+# base = "full/"
+# base = "pro+eu (mixed)/"
+# base = "prokaryotes/"
+# base = "pure_pro(+pro_nc)/"
+base =  "mouse_and_rat/"
+# base = "eu(human+mouse+rat)/"
+# base =  "human/"
 
 # Read data from files
-train = pd.read_csv("genesTrainDataShuffle.tsv", header=0,
+train = pd.read_csv(base + "genesTrainDataShuffle.tsv", header=0,
                     delimiter=";", quoting=3)
-test = pd.read_csv("genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
+test = pd.read_csv(base + "genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
 # unlabeled_train = pd.read_csv("genesUnlabeledTrainDataShuffle.tsv", header=0,
 #                               delimiter=";", quoting=3)
 
@@ -66,11 +69,10 @@ test = pd.read_csv("genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=
 #                                       test["sequence"].size, unlabeled_train["sequence"].size)
 
 print "Read %d labeled train reviews and %d labeled test reviews, " % (train["sequence"].size,
-                                      test["sequence"].size)
-
+                                                                       test["sequence"].size)
 
 # Download the punkt tokenizer for sentence splitting
-# nltk.download()
+nltk.download()
 
 # Load the punkt tokenizer
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -79,33 +81,35 @@ sentences = []  # Initialize an empty list of sentences
 
 print "Parsing sentences from training set"
 for sequence in train["sequence"]:
+    # print train["isgene"]
+    # print sequence
     sentences += sequence_to_sentences(sequence, tokenizer)
     # sentences += sequence_to_sentences(sequence)
 
-# print "Parsing sentences from unlabeled set"
-# for sequence in unlabeled_train["sequence"]:
-#     sentences += sequence_to_sentences(sequence, tokenizer)
-    # sentences += sequence_to_sentences(sequence)
 
 # Import the built-in logging module and configure it so that Word2Vec
 # creates nice output messages
-import logging
-
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', \
                     level=logging.INFO)
 
+
 # Set values for various parameters
-num_features = 10  # Word vector dimensionality
+skip_gram = 0  # skip-gram = 1, cbow = 0
+negative_sampling = 1
+hie_softmax = 1
+num_features = 50  # Word vector dimensionality
+context = 100  # Context window size
+downsampling = 0  # Downsample setting for frequent words
+
 min_word_count = 1  # Minimum word count
 num_workers = 4  # Number of threads to run in parallel
-context = 1  # Context window size
-downsampling = 0  # Downsample setting for frequent words
 
 # Initialize and train the model (this will take some time)
 from gensim.models import word2vec
 
 print "Training model..."
-model = word2vec.Word2Vec(sentences, sg=1, workers=num_workers, \
+model = word2vec.Word2Vec(sentences, sg=skip_gram, hs=hie_softmax, negative=negative_sampling, \
+                          workers=num_workers, \
                           size=num_features, min_count=min_word_count, \
                           window=context, sample=downsampling)
 
@@ -115,5 +119,35 @@ model.init_sims(replace=True)
 
 # It can be helpful to create a meaningful model name and
 # save the model for later use. You can load it later using Word2Vec.load()
-model_name = "ORFskipgram10features_1context_0downsampling"
+if skip_gram == 1:
+    type = "skip-gram"
+else:
+    type = "cbow"
+func = ''
+if negative_sampling == 1 and hie_softmax == 0:
+    func = "neg"
+elif hie_softmax == 1 and negative_sampling == 0:
+    func = "soft"
+elif negative_sampling == 1 and hie_softmax == 1:
+    func = "neg_soft"
+
+b = ''
+if base == "full/":
+    b = "Full"
+elif base == "pro+eu (mixed)/":
+    b = "Mixed"
+elif base == "prokaryotes/":
+    b = "Pro"
+elif base == "pure_pro(+pro_nc)/":
+    b = "PurePro"
+elif base == "mouse_and_rat/":
+    b = "Mouse"
+elif base == "eu(human+mouse+rat)/":
+    b = "Eu"
+elif base == "human/":
+    b = "Human"
+
+model_name = type + '_' + func + '_' + str(num_features) + 'features_' + str(context) + 'context_' + b
+print model_name
+# model_name = "skip-gram_ns_softmax_300features_10context_Pro"
 model.save(model_name)
