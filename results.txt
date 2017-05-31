@@ -326,3 +326,14 @@ False-negative results = 53786(% of all wrong = 79.3596458871)
 
  ----------------------------------------
 
+Starting 1 times  with model data/genes/skip-gram_neg_soft_50features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/Genes_AverageVectors.csv
+Starting 1 times  with model data/genes/skip-gram_neg_soft_50features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/Genes_AverageVectors.csv
+Starting 1 times  with model data/genes/skip-gram_neg_soft_50features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/Genes_AverageVectors.csv
+Total analysed seqs  = 86581
+Right results = 82347(% of total = 95.1097815918)
+Wrong results = 4234(% of total = 4.8902184082)
+False-positive results  = 497(% of all wrong = 11.7383089277)
+False-negative results = 3737(% of all wrong = 88.2616910723)
+
+ ----------------------------------------
+

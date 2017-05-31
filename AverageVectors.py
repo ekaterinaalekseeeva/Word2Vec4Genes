@@ -63,7 +63,7 @@ def getCleanReviews(reviews):
     return clean_reviews
 
 
-def average_vectors(model_name, base):
+def average_vectors(model_name, base, num_features):
     # Read data from files
     train = pd.read_csv(base + "genesTrainDataShuffle.tsv", header=0, delimiter=";", quoting=3)
     test = pd.read_csv(base + "genesTestDataShuffle.tsv", header=0, delimiter=";", quoting=3)
@@ -73,7 +73,6 @@ def average_vectors(model_name, base):
           % (train["sequence"].size, test["sequence"].size)
 
 
-    num_features = 10  # Word vector dimensionality
 
     model = Word2Vec.load(model_name)
 

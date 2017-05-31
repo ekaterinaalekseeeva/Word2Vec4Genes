@@ -3,6 +3,12 @@ from BagOfCentroids import bag_of_centroids
 from analyse_results import analyse_results
 
 
+def get_features_count(model_name):
+    tmp = model_name.split('_')
+    for t in tmp:
+        if t.count('features') > 0:
+            return int(t.replace('features', ''))
+
 res = open("results.txt", 'a')
 
 # Models:
@@ -53,10 +59,10 @@ bag = "data/genes/BagOfCentroids.csv"
 vec = "data/genes/Genes_AverageVectors.csv"
 
 # Parameters:
-n = 15  # number of repetitions
-model = models[29]
+n = 1  # number of repetitions
+model = models[28]
 base = bases["mixed"]
-method = bag
+method = vec
 
 total = 0
 true_res = 0
@@ -73,7 +79,7 @@ for i in range(0, n):
     if method == bag:
         bag_of_centroids(model, base)
     elif method == vec:
-        average_vectors(model, base)
+        average_vectors(model, base, get_features_count(model))
     else:
         break
     tmp_res = analyse_results(method)

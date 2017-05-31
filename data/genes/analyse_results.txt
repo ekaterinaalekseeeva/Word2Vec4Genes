@@ -10255,3 +10255,29 @@ CDNA: 0
 
  ----------------------------------------
 
+data/genes/Genes_AverageVectors.csv 2017-05-31 21:58:06.827000
+Model: 
+Total analysed seqs  = 86581
+Right results = 82347(% of total = 95.1097815918)
+Wrong results = 4234(% of total = 4.8902184082)
+False-positive results  = 497(% of all wrong = 11.7383089277)
+False-negative results = 3737(% of all wrong = 88.2616910723)
+Errors were made for this IDs:
+ENSMUST: 177
+KMK: 0
+AAT: 450
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 320
+ENSRNOG: 0
+ENSG: 1497
+GAK: 0
+ADH: 41
+ENSMUSG: 1731
+CDNA: 0
+
+ ----------------------------------------
+
