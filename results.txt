@@ -596,3 +596,39 @@ False-negative results = 1224(% of all wrong = 2.52934369317)
 
  ----------------------------------------
 
+Starting 3 times  with model data/genes/skip-gram_neg_soft_50features_100context_Human on base data/genes/human/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 323786
+Right results = 249162(% of total = 76.9526786211)
+Wrong results = 74621(% of total = 23.046394841)
+False-positive results  = 1617(% of all wrong = 2.1669503223)
+False-negative results = 73004(% of all wrong = 97.8330496777)
+
+ ----------------------------------------
+
+Starting 3 times  with model data/genes/skip-gram_neg_soft_50features_100context_Full on base data/genes/full/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 399195
+Right results = 378363(% of total = 94.7814977643)
+Wrong results = 20829(% of total = 5.21775072333)
+False-positive results  = 8111(% of all wrong = 38.9408997071)
+False-negative results = 12718(% of all wrong = 61.0591002929)
+
+ ----------------------------------------
+
+Starting 3 times  with model data/genes/skip-gram_neg_soft_50features_100context_Eu on base data/genes/eu(human+mouse+rat)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 489517
+Right results = 407163(% of total = 83.1764780386)
+Wrong results = 82351(% of total = 16.8229091125)
+False-positive results  = 4957(% of all wrong = 6.01935617054)
+False-negative results = 77394(% of all wrong = 93.9806438295)
+
+ ----------------------------------------
+
+Starting 3 times  with model data/genes/skip-gram_neg_soft_50features_100context_PurePro on base data/genes/pure_pro(+pro_nc)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 139452
+Right results = 103359(% of total = 74.1179760778)
+Wrong results = 36090(% of total = 25.8798726444)
+False-positive results  = 35197(% of all wrong = 97.5256303685)
+False-negative results = 893(% of all wrong = 2.47436963148)
+
+ ----------------------------------------
+

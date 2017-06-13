@@ -66,7 +66,13 @@ models = ["data/genes/skip-gram_ns_softmax_300features_10context_Eu",       # 0 
           "data/genes/skip-gram_neg_soft_1features_100context_Pro",         # 51  prokaryotes + 1 feature
           "data/genes/skip-gram_neg_soft_1features_100context_Mouse",       # 52  mouse + 1 feature
           "data/genes/skip-gram_neg_soft_50features_100context_TruePro",    # 53  true pro
-          "data/genes/skip-gram_neg_soft_300features_100context_TruePro"]    # 54  true pro + 300 features
+          "data/genes/skip-gram_neg_soft_300features_100context_TruePro",   # 54  true pro + 300 features
+          "data/genes/skip-gram_neg_soft_50features_100context_Eu",         # 55  eukaryotes
+          "data/genes/skip-gram_neg_soft_50features_100context_Human",      # 56  human
+          "data/genes/skip-gram_neg_soft_50features_100context_Full",       # 57  full
+          "data/genes/skip-gram_neg_soft_50features_100context_PurePro"]    # 58  pure pro
+
+
 
 # Bases:
 bases = {"full": "data/genes/full/",
@@ -84,8 +90,8 @@ vec = "data/genes/Genes_AverageVectors.csv"
 
 # Parameters:
 n = 3  # number of repetitions
-model = models[54]
-base = bases["pro"]
+model = models[58]
+base = bases["pure_pro"]
 method = bag
 
 total = 0

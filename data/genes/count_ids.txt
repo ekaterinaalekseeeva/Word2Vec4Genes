@@ -1,0 +1,389 @@
+>AAT: 0
+>ENSMUSG: 13139
+>CDNA: 0
+>ENST: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 8619
+>ENSRNOG: 13340
+>ENSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>AAT: 5119
+>ENSMUSG: 13139
+>CDNA: 0
+>ENST: 36144
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENSRNOG: 0
+>ENSG: 13090
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 13139
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENST: 36144
+>ENSG: 13090
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 13139
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENST: 36144
+>ENSG: 13090
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 13139
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENST: 36144
+>ENSG: 13090
+data/genes/pro+eu (mixed)/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 12486
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 3310
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 2262
+>ENSMUST: 26986
+>ENST: 49569
+>ENSG: 12446
+
+ ----------------------------------------
+
+data/genes/pro+eu (mixed)/ genesTestDataShuffle.tsv
+
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 13139
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENST: 36144
+>ENSG: 13090
+
+ ----------------------------------------
+
+data/genes/prokaryotes/ genesTestDataShuffle.tsv
+
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 3310
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 8619
+>ENST: 19389
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/prokaryotes/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 2262
+>ENSMUST: 18365
+>ENST: 30177
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pure_pro(+pro_nc)/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 15755
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29882
+>EEC: 0
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pure_pro(+pro_nc)/ genesTestDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 16835
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29648
+>EEC: 0
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/full/ genesTestDataShuffle.tsv
+
+>AAT: 5119
+>AAW: 80
+>CDNA: 16835
+>ENSRNOG: 0
+>ENSMUSG: 13139
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29648
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 0
+>ENSMUST: 15754
+>ENST: 36144
+>ENSG: 13090
+
+ ----------------------------------------
+
+data/genes/full/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 15755
+>ENSRNOG: 0
+>ENSMUSG: 12486
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29882
+>EEC: 3310
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 2262
+>ENSMUST: 26986
+>ENST: 49569
+>ENSG: 12446
+
+ ----------------------------------------
+
+data/genes/pro/ test.txt
+
+>AAT: 5119
+>AAW: 80
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 3310
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pro/ train.txt
+
+>AAT: 0
+>AAW: 0
+>CDNA: 0
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 0
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 2262
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pro/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 15755
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29882
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 2262
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pro/ genesTestDataShuffle.tsv
+
+>AAT: 5119
+>AAW: 80
+>CDNA: 16835
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29648
+>EEC: 3310
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pro/ genesTrainDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 15755
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29882
+>EEC: 0
+>AFS: 0
+>ADI: 808
+>ADH: 2447
+>KMK: 2262
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
+data/genes/pure_pro(+pro_nc)/ genesTestDataShuffle.tsv
+
+>AAT: 0
+>AAW: 0
+>CDNA: 16835
+>ENSRNOG: 0
+>ENSMUSG: 0
+>EEG: 0
+>AKF: 0
+>GAK: 0
+>NCRNA: 29648
+>EEC: 0
+>AFS: 0
+>ADI: 0
+>ADH: 0
+>KMK: 0
+>ENSMUST: 0
+>ENST: 0
+>ENSG: 0
+
+ ----------------------------------------
+
