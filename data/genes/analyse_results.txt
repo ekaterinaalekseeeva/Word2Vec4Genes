@@ -10281,3 +10281,4371 @@ CDNA: 0
 
  ----------------------------------------
 
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:43:01.849000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33785(% of total = 92.5185530027)
+Wrong results = 2732(% of total = 7.48144699729)
+False-positive results  = 4(% of all wrong = 0.146412884334)
+False-negative results = 2728(% of all wrong = 99.8535871157)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 951
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1755
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:43:57.831000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33770(% of total = 92.4774762439)
+Wrong results = 2747(% of total = 7.52252375606)
+False-positive results  = 4(% of all wrong = 0.145613396432)
+False-negative results = 2743(% of all wrong = 99.8543866036)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 1001
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1720
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:44:03.599000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33969(% of total = 93.0224279103)
+Wrong results = 2548(% of total = 6.97757208971)
+False-positive results  = 4(% of all wrong = 0.156985871272)
+False-negative results = 2544(% of all wrong = 99.8430141287)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 897
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1631
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:44:53.815000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33798(% of total = 92.5541528603)
+Wrong results = 2719(% of total = 7.44584713969)
+False-positive results  = 4(% of all wrong = 0.147112909158)
+False-negative results = 2715(% of all wrong = 99.8528870908)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 973
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1720
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:45:34.886000
+Model: 
+Total analysed seqs  = 36517
+Right results = 34097(% of total = 93.3729495851)
+Wrong results = 2420(% of total = 6.62705041488)
+False-positive results  = 4(% of all wrong = 0.165289256198)
+False-negative results = 2416(% of all wrong = 99.8347107438)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 859
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1538
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:45:49.525000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33810(% of total = 92.5870142673)
+Wrong results = 2707(% of total = 7.41298573267)
+False-positive results  = 4(% of all wrong = 0.147765053565)
+False-negative results = 2703(% of all wrong = 99.8522349464)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 977
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1703
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:46:45.153000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33699(% of total = 92.2830462524)
+Wrong results = 2818(% of total = 7.71695374757)
+False-positive results  = 4(% of all wrong = 0.14194464159)
+False-negative results = 2814(% of all wrong = 99.8580553584)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 1003
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1790
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:47:04.853000
+Model: 
+Total analysed seqs  = 36517
+Right results = 34103(% of total = 93.3893802886)
+Wrong results = 2414(% of total = 6.61061971137)
+False-positive results  = 3(% of all wrong = 0.124275062138)
+False-negative results = 2411(% of all wrong = 99.8757249379)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 816
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1580
+AFS: 0
+ENST: 1
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:47:40.360000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33758(% of total = 92.4446148369)
+Wrong results = 2759(% of total = 7.55538516307)
+False-positive results  = 4(% of all wrong = 0.144980065241)
+False-negative results = 2755(% of all wrong = 99.8550199348)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 1009
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1725
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:48:34.644000
+Model: 
+Total analysed seqs  = 36517
+Right results = 34057(% of total = 93.2634115617)
+Wrong results = 2460(% of total = 6.73658843826)
+False-positive results  = 3(% of all wrong = 0.121951219512)
+False-negative results = 2457(% of all wrong = 99.8780487805)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 862
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1577
+AFS: 0
+ENST: 1
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:48:36.122000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33708(% of total = 92.3076923077)
+Wrong results = 2809(% of total = 7.69230769231)
+False-positive results  = 4(% of all wrong = 0.142399430402)
+False-negative results = 2805(% of all wrong = 99.8576005696)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 1024
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1760
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:50:02.805000
+Model: 
+Total analysed seqs  = 36517
+Right results = 34062(% of total = 93.2771038147)
+Wrong results = 2455(% of total = 6.72289618534)
+False-positive results  = 4(% of all wrong = 0.162932790224)
+False-negative results = 2451(% of all wrong = 99.8370672098)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 878
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1553
+AFS: 0
+ENST: 2
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:51:30.791000
+Model: 
+Total analysed seqs  = 36517
+Right results = 33965(% of total = 93.0114741079)
+Wrong results = 2552(% of total = 6.98852589205)
+False-positive results  = 3(% of all wrong = 0.117554858934)
+False-negative results = 2549(% of all wrong = 99.8824451411)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 913
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1616
+AFS: 0
+ENST: 1
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/Genes_AverageVectors.csv 2017-06-01 19:53:04.191000
+Model: 
+Total analysed seqs  = 36517
+Right results = 34125(% of total = 93.4496262015)
+Wrong results = 2392(% of total = 6.5503737985)
+False-positive results  = 2(% of all wrong = 0.0836120401338)
+False-negative results = 2390(% of all wrong = 99.9163879599)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 837
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1535
+AFS: 0
+ENST: 0
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:02:56.351000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35159(% of total = 96.2785475656)
+Wrong results = 1358(% of total = 3.71871405882)
+False-positive results  = 23(% of all wrong = 1.69366715758)
+False-negative results = 1335(% of all wrong = 98.3063328424)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 516
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 807
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:03:11.029000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35375(% of total = 96.8700366942)
+Wrong results = 1142(% of total = 3.12722493017)
+False-positive results  = 24(% of all wrong = 2.10157618214)
+False-negative results = 1118(% of all wrong = 97.8984238179)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 382
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 724
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:03:57.456000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35454(% of total = 97.0863683663)
+Wrong results = 1063(% of total = 2.91089325812)
+False-positive results  = 21(% of all wrong = 1.97554092192)
+False-negative results = 1042(% of all wrong = 98.0244590781)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 446
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 588
+AFS: 0
+ENST: 16
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:04:11.690000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35396(% of total = 96.9275425817)
+Wrong results = 1121(% of total = 3.06971904266)
+False-positive results  = 24(% of all wrong = 2.1409455843)
+False-negative results = 1097(% of all wrong = 97.8590544157)
+Errors were made for this IDs:
+ENSMUST: 8
+KMK: 0
+AAT: 456
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 633
+AFS: 0
+ENST: 16
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:04:58.786000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35387(% of total = 96.9028972014)
+Wrong results = 1130(% of total = 3.09436442302)
+False-positive results  = 29(% of all wrong = 2.56637168142)
+False-negative results = 1101(% of all wrong = 97.4336283186)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 356
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 733
+AFS: 0
+ENST: 24
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:05:13.314000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35319(% of total = 96.7166876609)
+Wrong results = 1198(% of total = 3.28057396352)
+False-positive results  = 26(% of all wrong = 2.17028380634)
+False-negative results = 1172(% of all wrong = 97.8297161937)
+Errors were made for this IDs:
+ENSMUST: 8
+KMK: 0
+AAT: 409
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 753
+AFS: 0
+ENST: 18
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:06:06.677000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35265(% of total = 96.5688153787)
+Wrong results = 1252(% of total = 3.42844624569)
+False-positive results  = 18(% of all wrong = 1.43769968051)
+False-negative results = 1234(% of all wrong = 98.5623003195)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 470
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 754
+AFS: 0
+ENST: 15
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:06:30.720000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35233(% of total = 96.4811873597)
+Wrong results = 1284(% of total = 3.51607426475)
+False-positive results  = 23(% of all wrong = 1.79127725857)
+False-negative results = 1261(% of all wrong = 98.2087227414)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 459
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 793
+AFS: 0
+ENST: 17
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:07:07.395000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 34965(% of total = 95.7473027)
+Wrong results = 1552(% of total = 4.24995892437)
+False-positive results  = 23(% of all wrong = 1.48195876289)
+False-negative results = 1529(% of all wrong = 98.5180412371)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 508
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1009
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:07:31.573000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35058(% of total = 96.0019716304)
+Wrong results = 1459(% of total = 3.99528999398)
+False-positive results  = 26(% of all wrong = 1.78204249486)
+False-negative results = 1433(% of all wrong = 98.2179575051)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 508
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 911
+AFS: 0
+ENST: 21
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:08:09.753000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35267(% of total = 96.5742921299)
+Wrong results = 1250(% of total = 3.4229694945)
+False-positive results  = 23(% of all wrong = 1.84)
+False-negative results = 1227(% of all wrong = 98.16)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 501
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 714
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:08:42.923000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35386(% of total = 96.9001588258)
+Wrong results = 1131(% of total = 3.09710279862)
+False-positive results  = 24(% of all wrong = 2.12201591512)
+False-negative results = 1107(% of all wrong = 97.8779840849)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 487
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 604
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:09:11.182000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35339(% of total = 96.7714551728)
+Wrong results = 1178(% of total = 3.22580645161)
+False-positive results  = 29(% of all wrong = 2.46179966044)
+False-negative results = 1149(% of all wrong = 97.5382003396)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 475
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 664
+AFS: 0
+ENST: 26
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:09:54.150000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35028(% of total = 95.9198203626)
+Wrong results = 1489(% of total = 4.07744126184)
+False-positive results  = 17(% of all wrong = 1.14170584285)
+False-negative results = 1472(% of all wrong = 98.8582941572)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 619
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 836
+AFS: 0
+ENST: 13
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:13:47.398000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35196(% of total = 96.3798674626)
+Wrong results = 1321(% of total = 3.61739416178)
+False-positive results  = 18(% of all wrong = 1.36260408781)
+False-negative results = 1303(% of all wrong = 98.6373959122)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 460
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 835
+AFS: 0
+ENST: 14
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:13:57.054000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35153(% of total = 96.262117312)
+Wrong results = 1364(% of total = 3.73514431239)
+False-positive results  = 20(% of all wrong = 1.46627565982)
+False-negative results = 1344(% of all wrong = 98.5337243402)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 483
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 851
+AFS: 0
+ENST: 17
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:15:00.915000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35194(% of total = 96.3743907114)
+Wrong results = 1323(% of total = 3.62287091297)
+False-positive results  = 25(% of all wrong = 1.88964474679)
+False-negative results = 1298(% of all wrong = 98.1103552532)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 478
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 809
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:15:02.138000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35194(% of total = 96.3743907114)
+Wrong results = 1323(% of total = 3.62287091297)
+False-positive results  = 25(% of all wrong = 1.88964474679)
+False-negative results = 1298(% of all wrong = 98.1103552532)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 478
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 809
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:16:06.846000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35512(% of total = 97.2451941508)
+Wrong results = 1005(% of total = 2.75206747357)
+False-positive results  = 28(% of all wrong = 2.78606965174)
+False-negative results = 977(% of all wrong = 97.2139303483)
+Errors were made for this IDs:
+ENSMUST: 10
+KMK: 0
+AAT: 374
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 598
+AFS: 0
+ENST: 18
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:16:09.124000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35576(% of total = 97.4204501889)
+Wrong results = 941(% of total = 2.57681143546)
+False-positive results  = 19(% of all wrong = 2.01912858661)
+False-negative results = 922(% of all wrong = 97.9808714134)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 363
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 548
+AFS: 0
+ENST: 15
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:17:09.980000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35267(% of total = 96.5742921299)
+Wrong results = 1250(% of total = 3.4229694945)
+False-positive results  = 16(% of all wrong = 1.28)
+False-negative results = 1234(% of all wrong = 98.72)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 414
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 808
+AFS: 0
+ENST: 12
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:17:11.097000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35326(% of total = 96.73585629)
+Wrong results = 1191(% of total = 3.26140533436)
+False-positive results  = 21(% of all wrong = 1.76322418136)
+False-negative results = 1170(% of all wrong = 98.2367758186)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 445
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 713
+AFS: 0
+ENST: 18
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:18:11.092000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35425(% of total = 97.006955474)
+Wrong results = 1092(% of total = 2.99030615039)
+False-positive results  = 27(% of all wrong = 2.47252747253)
+False-negative results = 1065(% of all wrong = 97.5274725275)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 338
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 721
+AFS: 0
+ENST: 21
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:18:12.591000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35085(% of total = 96.0759077715)
+Wrong results = 1432(% of total = 3.92135385289)
+False-positive results  = 26(% of all wrong = 1.8156424581)
+False-negative results = 1406(% of all wrong = 98.1843575419)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 454
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 943
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:19:16.526000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35476(% of total = 97.1466126294)
+Wrong results = 1041(% of total = 2.85064899502)
+False-positive results  = 29(% of all wrong = 2.78578290106)
+False-negative results = 1012(% of all wrong = 97.2142170989)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 357
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 645
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:19:17.606000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35466(% of total = 97.1192288734)
+Wrong results = 1051(% of total = 2.87803275097)
+False-positive results  = 24(% of all wrong = 2.2835394862)
+False-negative results = 1027(% of all wrong = 97.7164605138)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 402
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 616
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:20:19.488000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35262(% of total = 96.5606002519)
+Wrong results = 1255(% of total = 3.43666137247)
+False-positive results  = 29(% of all wrong = 2.31075697211)
+False-negative results = 1226(% of all wrong = 97.6892430279)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 513
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 700
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:20:20.243000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35372(% of total = 96.8618215674)
+Wrong results = 1145(% of total = 3.13544005696)
+False-positive results  = 17(% of all wrong = 1.48471615721)
+False-negative results = 1128(% of all wrong = 98.5152838428)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 417
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 705
+AFS: 0
+ENST: 11
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:24:17.986000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35503(% of total = 97.2205487705)
+Wrong results = 1014(% of total = 2.77671285394)
+False-positive results  = 27(% of all wrong = 2.66272189349)
+False-negative results = 987(% of all wrong = 97.3372781065)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 317
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 660
+AFS: 0
+ENST: 23
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:25:20.472000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35331(% of total = 96.749548168)
+Wrong results = 1186(% of total = 3.24771345638)
+False-positive results  = 28(% of all wrong = 2.36087689713)
+False-negative results = 1158(% of all wrong = 97.6391231029)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 454
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 695
+AFS: 0
+ENST: 23
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:26:22.186000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35270(% of total = 96.5825072567)
+Wrong results = 1247(% of total = 3.41475436771)
+False-positive results  = 23(% of all wrong = 1.8444266239)
+False-negative results = 1224(% of all wrong = 98.1555733761)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 504
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 703
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:27:24.373000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35180(% of total = 96.3360534531)
+Wrong results = 1337(% of total = 3.66120817131)
+False-positive results  = 20(% of all wrong = 1.49588631264)
+False-negative results = 1317(% of all wrong = 98.5041136874)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 432
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 878
+AFS: 0
+ENST: 16
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:28:26.450000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35356(% of total = 96.8180075579)
+Wrong results = 1161(% of total = 3.17925406649)
+False-positive results  = 25(% of all wrong = 2.1533161068)
+False-negative results = 1136(% of all wrong = 97.8466838932)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 396
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 729
+AFS: 0
+ENST: 22
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:29:28.630000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35515(% of total = 97.2534092776)
+Wrong results = 1002(% of total = 2.74385234679)
+False-positive results  = 25(% of all wrong = 2.49500998004)
+False-negative results = 977(% of all wrong = 97.50499002)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 332
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 637
+AFS: 0
+ENST: 21
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:30:30.714000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 35247(% of total = 96.519524618)
+Wrong results = 1270(% of total = 3.47773700641)
+False-positive results  = 24(% of all wrong = 1.88976377953)
+False-negative results = 1246(% of all wrong = 98.1102362205)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 428
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 807
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:56:24.663000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 34958(% of total = 95.7281340709)
+Wrong results = 1559(% of total = 4.26912755354)
+False-positive results  = 84(% of all wrong = 5.38806927518)
+False-negative results = 1475(% of all wrong = 94.6119307248)
+Errors were made for this IDs:
+ENSMUST: 18
+KMK: 0
+AAT: 300
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1165
+AFS: 0
+ENST: 66
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:56:28.894000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35326(% of total = 96.73585629)
+Wrong results = 1191(% of total = 3.26140533436)
+False-positive results  = 33(% of all wrong = 2.77078085642)
+False-negative results = 1158(% of all wrong = 97.2292191436)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 239
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 914
+AFS: 0
+ENST: 26
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:57:26.534000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 34257(% of total = 93.8085327784)
+Wrong results = 2260(% of total = 6.18872884605)
+False-positive results  = 41(% of all wrong = 1.81415929204)
+False-negative results = 2219(% of all wrong = 98.185840708)
+Errors were made for this IDs:
+ENSMUST: 12
+KMK: 0
+AAT: 382
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1822
+AFS: 0
+ENST: 29
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:57:29.605000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35439(% of total = 97.0452927324)
+Wrong results = 1078(% of total = 2.95196889205)
+False-positive results  = 24(% of all wrong = 2.22634508349)
+False-negative results = 1054(% of all wrong = 97.7736549165)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 294
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 748
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:58:29.073000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 35131(% of total = 96.2018730489)
+Wrong results = 1386(% of total = 3.7953885755)
+False-positive results  = 107(% of all wrong = 7.72005772006)
+False-negative results = 1279(% of all wrong = 92.2799422799)
+Errors were made for this IDs:
+ENSMUST: 24
+KMK: 0
+AAT: 516
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 753
+AFS: 0
+ENST: 83
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:58:31.693000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 34804(% of total = 95.3064242291)
+Wrong results = 1713(% of total = 4.69083739526)
+False-positive results  = 40(% of all wrong = 2.33508464682)
+False-negative results = 1673(% of all wrong = 97.6649153532)
+Errors were made for this IDs:
+ENSMUST: 11
+KMK: 0
+AAT: 518
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1143
+AFS: 0
+ENST: 29
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:59:32.347000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 35181(% of total = 96.3387918287)
+Wrong results = 1336(% of total = 3.65846979572)
+False-positive results  = 65(% of all wrong = 4.86526946108)
+False-negative results = 1271(% of all wrong = 95.1347305389)
+Errors were made for this IDs:
+ENSMUST: 21
+KMK: 0
+AAT: 278
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 985
+AFS: 0
+ENST: 44
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 20:59:34.379000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35073(% of total = 96.0430472644)
+Wrong results = 1444(% of total = 3.95421436004)
+False-positive results  = 36(% of all wrong = 2.49307479224)
+False-negative results = 1408(% of all wrong = 97.5069252078)
+Errors were made for this IDs:
+ENSMUST: 8
+KMK: 0
+AAT: 396
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1004
+AFS: 0
+ENST: 28
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:00:35.665000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 35027(% of total = 95.917081987)
+Wrong results = 1490(% of total = 4.08017963744)
+False-positive results  = 96(% of all wrong = 6.44295302013)
+False-negative results = 1394(% of all wrong = 93.5570469799)
+Errors were made for this IDs:
+ENSMUST: 31
+KMK: 0
+AAT: 338
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1042
+AFS: 0
+ENST: 65
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:00:36.811000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 34923(% of total = 95.632290925)
+Wrong results = 1594(% of total = 4.36497069938)
+False-positive results  = 40(% of all wrong = 2.50941028858)
+False-negative results = 1554(% of all wrong = 97.4905897114)
+Errors were made for this IDs:
+ENSMUST: 9
+KMK: 0
+AAT: 367
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1179
+AFS: 0
+ENST: 31
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:01:39.075000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35019(% of total = 95.8951749822)
+Wrong results = 1498(% of total = 4.1020866422)
+False-positive results  = 35(% of all wrong = 2.33644859813)
+False-negative results = 1463(% of all wrong = 97.6635514019)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 345
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1106
+AFS: 0
+ENST: 30
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:01:39.158000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35019(% of total = 95.8951749822)
+Wrong results = 1498(% of total = 4.1020866422)
+False-positive results  = 35(% of all wrong = 2.33644859813)
+False-negative results = 1463(% of all wrong = 97.6635514019)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 345
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1106
+AFS: 0
+ENST: 30
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:02:40.576000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Pro
+Total analysed seqs  = 36518
+Right results = 35074(% of total = 96.04578564)
+Wrong results = 1443(% of total = 3.95147598445)
+False-positive results  = 24(% of all wrong = 1.6632016632)
+False-negative results = 1419(% of all wrong = 98.3367983368)
+Errors were made for this IDs:
+ENSMUST: 3
+KMK: 0
+AAT: 414
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 996
+AFS: 0
+ENST: 21
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:02:41.305000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Pro
+Total analysed seqs  = 36518
+Right results = 35273(% of total = 96.5907223835)
+Wrong results = 1244(% of total = 3.40653924092)
+False-positive results  = 103(% of all wrong = 8.27974276527)
+False-negative results = 1141(% of all wrong = 91.7202572347)
+Errors were made for this IDs:
+ENSMUST: 21
+KMK: 0
+AAT: 569
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 562
+AFS: 0
+ENST: 82
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:04:28.461000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 35053(% of total = 95.9882797525)
+Wrong results = 1464(% of total = 4.00898187195)
+False-positive results  = 26(% of all wrong = 1.77595628415)
+False-negative results = 1438(% of all wrong = 98.2240437158)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 418
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1008
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:04:36.684000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 35195(% of total = 96.377129087)
+Wrong results = 1322(% of total = 3.62013253738)
+False-positive results  = 24(% of all wrong = 1.8154311649)
+False-negative results = 1298(% of all wrong = 98.1845688351)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 450
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 833
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:05:30.432000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 34733(% of total = 95.1119995619)
+Wrong results = 1784(% of total = 4.88526206254)
+False-positive results  = 21(% of all wrong = 1.17713004484)
+False-negative results = 1763(% of all wrong = 98.8228699552)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 630
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1111
+AFS: 0
+ENST: 16
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:05:38.720000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 34399(% of total = 94.1973821129)
+Wrong results = 2118(% of total = 5.79987951147)
+False-positive results  = 44(% of all wrong = 2.07743153919)
+False-negative results = 2074(% of all wrong = 97.9225684608)
+Errors were made for this IDs:
+ENSMUST: 19
+KMK: 0
+AAT: 904
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1144
+AFS: 0
+ENST: 25
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:06:34.202000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 35268(% of total = 96.5770305055)
+Wrong results = 1249(% of total = 3.4202311189)
+False-positive results  = 25(% of all wrong = 2.00160128102)
+False-negative results = 1224(% of all wrong = 97.998398719)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 462
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 752
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:06:42.256000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 34516(% of total = 94.5177720576)
+Wrong results = 2001(% of total = 5.47948956679)
+False-positive results  = 17(% of all wrong = 0.849575212394)
+False-negative results = 1984(% of all wrong = 99.1504247876)
+Errors were made for this IDs:
+ENSMUST: 4
+KMK: 0
+AAT: 620
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1342
+AFS: 0
+ENST: 13
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:07:37.530000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 35570(% of total = 97.4040199354)
+Wrong results = 947(% of total = 2.59324168903)
+False-positive results  = 26(% of all wrong = 2.74551214361)
+False-negative results = 921(% of all wrong = 97.2544878564)
+Errors were made for this IDs:
+ENSMUST: 6
+KMK: 0
+AAT: 336
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 573
+AFS: 0
+ENST: 20
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:07:45.345000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 34590(% of total = 94.7204118517)
+Wrong results = 1927(% of total = 5.27684977271)
+False-positive results  = 23(% of all wrong = 1.19356512714)
+False-negative results = 1904(% of all wrong = 98.8064348729)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 626
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1260
+AFS: 0
+ENST: 16
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:08:41.174000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 34962(% of total = 95.7390875733)
+Wrong results = 1555(% of total = 4.25817405115)
+False-positive results  = 29(% of all wrong = 1.86495176849)
+False-negative results = 1526(% of all wrong = 98.1350482315)
+Errors were made for this IDs:
+ENSMUST: 5
+KMK: 0
+AAT: 370
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 1144
+AFS: 0
+ENST: 24
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:08:49.122000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 34908(% of total = 95.5912152911)
+Wrong results = 1609(% of total = 4.40604633332)
+False-positive results  = 33(% of all wrong = 2.05096333126)
+False-negative results = 1576(% of all wrong = 97.9490366687)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 595
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 963
+AFS: 0
+ENST: 26
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:09:45.671000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 35387(% of total = 96.9028972014)
+Wrong results = 1130(% of total = 3.09436442302)
+False-positive results  = 27(% of all wrong = 2.38938053097)
+False-negative results = 1103(% of all wrong = 97.610619469)
+Errors were made for this IDs:
+ENSMUST: 2
+KMK: 0
+AAT: 480
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 608
+AFS: 0
+ENST: 25
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:09:53.350000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 35390(% of total = 96.9111123282)
+Wrong results = 1127(% of total = 3.08614929624)
+False-positive results  = 39(% of all wrong = 3.46051464064)
+False-negative results = 1088(% of all wrong = 96.5394853594)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 450
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 627
+AFS: 0
+ENST: 32
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:10:49.531000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Pro
+Total analysed seqs  = 36518
+Right results = 35488(% of total = 97.1794731365)
+Wrong results = 1029(% of total = 2.81778848787)
+False-positive results  = 28(% of all wrong = 2.72108843537)
+False-negative results = 1001(% of all wrong = 97.2789115646)
+Errors were made for this IDs:
+ENSMUST: 7
+KMK: 0
+AAT: 335
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 656
+AFS: 0
+ENST: 21
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-01 21:10:56.676000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Pro
+Total analysed seqs  = 36518
+Right results = 35287(% of total = 96.6290596418)
+Wrong results = 1230(% of total = 3.36820198258)
+False-positive results  = 29(% of all wrong = 2.35772357724)
+False-negative results = 1201(% of all wrong = 97.6422764228)
+Errors were made for this IDs:
+ENSMUST: 10
+KMK: 0
+AAT: 477
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 709
+AFS: 0
+ENST: 19
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-02 23:37:26.221000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 82653(% of total = 95.4621052875)
+Wrong results = 3928(% of total = 4.53673973805)
+False-positive results  = 886(% of all wrong = 22.5560081466)
+False-negative results = 3042(% of all wrong = 77.4439918534)
+Errors were made for this IDs:
+ENSMUST: 278
+KMK: 0
+AAT: 58
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 608
+ENSRNOG: 0
+ENSG: 1404
+GAK: 0
+ADH: 60
+ENSMUSG: 1501
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-02 23:42:34.830000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 81847(% of total = 94.5311958606)
+Wrong results = 4734(% of total = 5.46764916495)
+False-positive results  = 1139(% of all wrong = 24.0599915505)
+False-negative results = 3595(% of all wrong = 75.9400084495)
+Errors were made for this IDs:
+ENSMUST: 339
+KMK: 0
+AAT: 152
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 800
+ENSRNOG: 0
+ENSG: 1628
+GAK: 0
+ADH: 86
+ENSMUSG: 1700
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-02 23:47:34.614000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 82193(% of total = 94.9308170289)
+Wrong results = 4388(% of total = 5.06802799658)
+False-positive results  = 902(% of all wrong = 20.5560619872)
+False-negative results = 3486(% of all wrong = 79.4439380128)
+Errors were made for this IDs:
+ENSMUST: 316
+KMK: 0
+AAT: 144
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 586
+ENSRNOG: 0
+ENSG: 1575
+GAK: 0
+ADH: 51
+ENSMUSG: 1691
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-02 23:52:30.371000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 82232(% of total = 94.9758610335)
+Wrong results = 4349(% of total = 5.02298399205)
+False-positive results  = 879(% of all wrong = 20.2115428834)
+False-negative results = 3470(% of all wrong = 79.7884571166)
+Errors were made for this IDs:
+ENSMUST: 276
+KMK: 0
+AAT: 178
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 603
+ENSRNOG: 0
+ENSG: 1515
+GAK: 0
+ADH: 50
+ENSMUSG: 1710
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-02 23:58:02.730000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 83844(% of total = 96.8376798873)
+Wrong results = 2737(% of total = 3.16116513825)
+False-positive results  = 528(% of all wrong = 19.2911947388)
+False-negative results = 2209(% of all wrong = 80.7088052612)
+Errors were made for this IDs:
+ENSMUST: 183
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 345
+ENSRNOG: 0
+ENSG: 1027
+GAK: 0
+ADH: 29
+ENSMUSG: 1135
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:01:33.165000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 82368(% of total = 95.1329375621)
+Wrong results = 4213(% of total = 4.86590746345)
+False-positive results  = 885(% of all wrong = 21.0064087349)
+False-negative results = 3328(% of all wrong = 78.9935912651)
+Errors were made for this IDs:
+ENSMUST: 275
+KMK: 0
+AAT: 108
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 610
+ENSRNOG: 0
+ENSG: 1513
+GAK: 0
+ADH: 57
+ENSMUSG: 1632
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:06:21.248000
+Model: data/genes/skip-gram_neg_soft_50features_50context_Mixed
+Total analysed seqs  = 86582
+Right results = 83782(% of total = 96.7660714698)
+Wrong results = 2799(% of total = 3.2327735557)
+False-positive results  = 635(% of all wrong = 22.6866738121)
+False-negative results = 2164(% of all wrong = 77.3133261879)
+Errors were made for this IDs:
+ENSMUST: 233
+KMK: 0
+AAT: 4
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 402
+ENSRNOG: 0
+ENSG: 1031
+GAK: 0
+ADH: 36
+ENSMUSG: 1080
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:24:21.369000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 82785(% of total = 95.6145619182)
+Wrong results = 3796(% of total = 4.38428310734)
+False-positive results  = 843(% of all wrong = 22.2075869336)
+False-negative results = 2953(% of all wrong = 77.7924130664)
+Errors were made for this IDs:
+ENSMUST: 261
+KMK: 0
+AAT: 46
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 582
+ENSRNOG: 0
+ENSG: 1332
+GAK: 0
+ADH: 45
+ENSMUSG: 1515
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:29:06.901000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 83800(% of total = 96.7868610104)
+Wrong results = 2781(% of total = 3.21198401515)
+False-positive results  = 575(% of all wrong = 20.6760158216)
+False-negative results = 2206(% of all wrong = 79.3239841784)
+Errors were made for this IDs:
+ENSMUST: 218
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 357
+ENSRNOG: 0
+ENSG: 1029
+GAK: 0
+ADH: 29
+ENSMUSG: 1132
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:33:54.883000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 83744(% of total = 96.7221824398)
+Wrong results = 2837(% of total = 3.27666258576)
+False-positive results  = 591(% of all wrong = 20.8318646458)
+False-negative results = 2246(% of all wrong = 79.1681353542)
+Errors were made for this IDs:
+ENSMUST: 226
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 365
+ENSRNOG: 0
+ENSG: 1031
+GAK: 0
+ADH: 26
+ENSMUSG: 1174
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:39:09.765000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 82648(% of total = 95.4563304151)
+Wrong results = 3933(% of total = 4.54251461043)
+False-positive results  = 883(% of all wrong = 22.4510551742)
+False-negative results = 3050(% of all wrong = 77.5489448258)
+Errors were made for this IDs:
+ENSMUST: 303
+KMK: 0
+AAT: 45
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 580
+ENSRNOG: 0
+ENSG: 1406
+GAK: 0
+ADH: 48
+ENSMUSG: 1527
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:43:54.138000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 83830(% of total = 96.8215102446)
+Wrong results = 2751(% of total = 3.1773347809)
+False-positive results  = 569(% of all wrong = 20.683387859)
+False-negative results = 2182(% of all wrong = 79.316612141)
+Errors were made for this IDs:
+ENSMUST: 213
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 356
+ENSRNOG: 0
+ENSG: 1026
+GAK: 0
+ADH: 27
+ENSMUSG: 1113
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:48:36.909000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 82862(% of total = 95.7034949528)
+Wrong results = 3719(% of total = 4.29535007276)
+False-positive results  = 768(% of all wrong = 20.6507125571)
+False-negative results = 2951(% of all wrong = 79.3492874429)
+Errors were made for this IDs:
+ENSMUST: 255
+KMK: 0
+AAT: 46
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 513
+ENSRNOG: 0
+ENSG: 1347
+GAK: 0
+ADH: 38
+ENSMUSG: 1509
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:53:00.964000
+Model: data/genes/skip-gram_neg_soft_50features_20context_Mixed
+Total analysed seqs  = 86582
+Right results = 83864(% of total = 96.8607793768)
+Wrong results = 2717(% of total = 3.13806564875)
+False-positive results  = 539(% of all wrong = 19.8380566802)
+False-negative results = 2178(% of all wrong = 80.1619433198)
+Errors were made for this IDs:
+ENSMUST: 209
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 330
+ENSRNOG: 0
+ENSG: 1025
+GAK: 0
+ADH: 30
+ENSMUSG: 1111
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 00:59:39.330000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 82709(% of total = 95.5267838581)
+Wrong results = 3872(% of total = 4.47206116745)
+False-positive results  = 838(% of all wrong = 21.6425619835)
+False-negative results = 3034(% of all wrong = 78.3574380165)
+Errors were made for this IDs:
+ENSMUST: 260
+KMK: 0
+AAT: 60
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 578
+ENSRNOG: 0
+ENSG: 1377
+GAK: 0
+ADH: 46
+ENSMUSG: 1533
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:03:30.046000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 81997(% of total = 94.7044420318)
+Wrong results = 4584(% of total = 5.29440299369)
+False-positive results  = 1020(% of all wrong = 22.2513089005)
+False-negative results = 3564(% of all wrong = 77.7486910995)
+Errors were made for this IDs:
+ENSMUST: 373
+KMK: 0
+AAT: 106
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 647
+ENSRNOG: 0
+ENSG: 1596
+GAK: 0
+ADH: 58
+ENSMUSG: 1780
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:08:09.031000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 83750(% of total = 96.7291122866)
+Wrong results = 2831(% of total = 3.26973273891)
+False-positive results  = 559(% of all wrong = 19.7456729071)
+False-negative results = 2272(% of all wrong = 80.2543270929)
+Errors were made for this IDs:
+ENSMUST: 208
+KMK: 0
+AAT: 7
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 351
+ENSRNOG: 0
+ENSG: 1019
+GAK: 0
+ADH: 37
+ENSMUSG: 1196
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:12:10.194000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 82232(% of total = 94.9758610335)
+Wrong results = 4349(% of total = 5.02298399205)
+False-positive results  = 984(% of all wrong = 22.6258910094)
+False-negative results = 3365(% of all wrong = 77.3741089906)
+Errors were made for this IDs:
+ENSMUST: 327
+KMK: 0
+AAT: 217
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 657
+ENSRNOG: 0
+ENSG: 1433
+GAK: 0
+ADH: 67
+ENSMUSG: 1619
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:16:18.948000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 83605(% of total = 96.5616409877)
+Wrong results = 2976(% of total = 3.43720403779)
+False-positive results  = 646(% of all wrong = 21.7069892473)
+False-negative results = 2330(% of all wrong = 78.2930107527)
+Errors were made for this IDs:
+ENSMUST: 225
+KMK: 0
+AAT: 7
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 421
+ENSRNOG: 0
+ENSG: 1024
+GAK: 0
+ADH: 33
+ENSMUSG: 1254
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:19:40.320000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 81995(% of total = 94.7021320829)
+Wrong results = 4586(% of total = 5.29671294264)
+False-positive results  = 1058(% of all wrong = 23.0702136939)
+False-negative results = 3528(% of all wrong = 76.9297863061)
+Errors were made for this IDs:
+ENSMUST: 371
+KMK: 0
+AAT: 86
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 687
+ENSRNOG: 0
+ENSG: 1584
+GAK: 0
+ADH: 57
+ENSMUSG: 1778
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:26:57.516000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 83922(% of total = 96.9277678963)
+Wrong results = 2659(% of total = 3.0710771292)
+False-positive results  = 536(% of all wrong = 20.1579541181)
+False-negative results = 2123(% of all wrong = 79.8420458819)
+Errors were made for this IDs:
+ENSMUST: 203
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 333
+ENSRNOG: 0
+ENSG: 993
+GAK: 0
+ADH: 25
+ENSMUSG: 1091
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:28:42.943000
+Model: data/genes/skip-gram_neg_soft_50features_5context_Mixed
+Total analysed seqs  = 86582
+Right results = 83922(% of total = 96.9277678963)
+Wrong results = 2659(% of total = 3.0710771292)
+False-positive results  = 536(% of all wrong = 20.1579541181)
+False-negative results = 2123(% of all wrong = 79.8420458819)
+Errors were made for this IDs:
+ENSMUST: 203
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 333
+ENSRNOG: 0
+ENSG: 993
+GAK: 0
+ADH: 25
+ENSMUSG: 1091
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:30:38.543000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 80405(% of total = 92.8657226675)
+Wrong results = 6176(% of total = 7.133122358)
+False-positive results  = 1877(% of all wrong = 30.3918393782)
+False-negative results = 4299(% of all wrong = 69.6081606218)
+Errors were made for this IDs:
+ENSMUST: 491
+KMK: 0
+AAT: 706
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 1386
+ENSRNOG: 0
+ENSG: 1665
+GAK: 0
+ADH: 113
+ENSMUSG: 1753
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:33:42.167000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 83296(% of total = 96.2047538749)
+Wrong results = 3285(% of total = 3.79409115059)
+False-positive results  = 916(% of all wrong = 27.8843226788)
+False-negative results = 2369(% of all wrong = 72.1156773212)
+Errors were made for this IDs:
+ENSMUST: 277
+KMK: 0
+AAT: 11
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 639
+ENSRNOG: 0
+ENSG: 1071
+GAK: 0
+ADH: 52
+ENSMUSG: 1215
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:36:48.466000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 78655(% of total = 90.8445173362)
+Wrong results = 7926(% of total = 9.15432768936)
+False-positive results  = 2614(% of all wrong = 32.9800656069)
+False-negative results = 5312(% of all wrong = 67.0199343931)
+Errors were made for this IDs:
+ENSMUST: 742
+KMK: 0
+AAT: 411
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 1872
+ENSRNOG: 0
+ENSG: 2139
+GAK: 0
+ADH: 161
+ENSMUSG: 2531
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:41:42.572000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 80518(% of total = 92.9962347832)
+Wrong results = 6063(% of total = 7.00261024231)
+False-positive results  = 1596(% of all wrong = 26.3236021771)
+False-negative results = 4467(% of all wrong = 73.6763978229)
+Errors were made for this IDs:
+ENSMUST: 457
+KMK: 0
+AAT: 313
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 1139
+ENSRNOG: 0
+ENSG: 1806
+GAK: 0
+ADH: 74
+ENSMUSG: 2236
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:47:12.341000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83770(% of total = 96.7522117761)
+Wrong results = 2811(% of total = 3.24663324941)
+False-positive results  = 572(% of all wrong = 20.3486303806)
+False-negative results = 2239(% of all wrong = 79.6513696194)
+Errors were made for this IDs:
+ENSMUST: 207
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 365
+ENSRNOG: 0
+ENSG: 1021
+GAK: 0
+ADH: 27
+ENSMUSG: 1173
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:49:22.691000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 79750(% of total = 92.1092143864)
+Wrong results = 6831(% of total = 7.88963063916)
+False-positive results  = 1788(% of all wrong = 26.1747913922)
+False-negative results = 5043(% of all wrong = 73.8252086078)
+Errors were made for this IDs:
+ENSMUST: 505
+KMK: 0
+AAT: 710
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 1283
+ENSRNOG: 0
+ENSG: 1992
+GAK: 0
+ADH: 122
+ENSMUSG: 2161
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:53:44.814000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83853(% of total = 96.8480746576)
+Wrong results = 2728(% of total = 3.15077036797)
+False-positive results  = 546(% of all wrong = 20.0146627566)
+False-negative results = 2182(% of all wrong = 79.9853372434)
+Errors were made for this IDs:
+ENSMUST: 201
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 345
+ENSRNOG: 0
+ENSG: 1047
+GAK: 0
+ADH: 29
+ENSMUSG: 1090
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:56:31.133000
+Model: data/genes/skip-gram_neg_soft_50features_1context_Mixed
+Total analysed seqs  = 86582
+Right results = 79862(% of total = 92.2385715276)
+Wrong results = 6719(% of total = 7.76027349796)
+False-positive results  = 1977(% of all wrong = 29.4240214318)
+False-negative results = 4742(% of all wrong = 70.5759785682)
+Errors were made for this IDs:
+ENSMUST: 610
+KMK: 0
+AAT: 257
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 1367
+ENSRNOG: 0
+ENSG: 2004
+GAK: 0
+ADH: 131
+ENSMUSG: 2296
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 01:57:51.208000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83908(% of total = 96.9115982537)
+Wrong results = 2673(% of total = 3.08724677185)
+False-positive results  = 522(% of all wrong = 19.5286195286)
+False-negative results = 2151(% of all wrong = 80.4713804714)
+Errors were made for this IDs:
+ENSMUST: 188
+KMK: 0
+AAT: 7
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 334
+ENSRNOG: 0
+ENSG: 1014
+GAK: 0
+ADH: 27
+ENSMUSG: 1097
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:02:52.323000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83771(% of total = 96.7533667506)
+Wrong results = 2810(% of total = 3.24547827493)
+False-positive results  = 588(% of all wrong = 20.9252669039)
+False-negative results = 2222(% of all wrong = 79.0747330961)
+Errors were made for this IDs:
+ENSMUST: 209
+KMK: 0
+AAT: 9
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 379
+ENSRNOG: 0
+ENSG: 1024
+GAK: 0
+ADH: 34
+ENSMUSG: 1144
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:08:29.782000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83822(% of total = 96.8122704488)
+Wrong results = 2759(% of total = 3.1865745767)
+False-positive results  = 557(% of all wrong = 20.1884740848)
+False-negative results = 2202(% of all wrong = 79.8115259152)
+Errors were made for this IDs:
+ENSMUST: 207
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 350
+ENSRNOG: 0
+ENSG: 1026
+GAK: 0
+ADH: 31
+ENSMUSG: 1126
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:09:52.448000
+Model: data/genes/skip-gram_neg_soft_10features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83822(% of total = 96.8122704488)
+Wrong results = 2759(% of total = 3.1865745767)
+False-positive results  = 557(% of all wrong = 20.1884740848)
+False-negative results = 2202(% of all wrong = 79.8115259152)
+Errors were made for this IDs:
+ENSMUST: 207
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 350
+ENSRNOG: 0
+ENSG: 1026
+GAK: 0
+ADH: 31
+ENSMUSG: 1126
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:12:39.599000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83741(% of total = 96.7187175163)
+Wrong results = 2840(% of total = 3.28012750918)
+False-positive results  = 582(% of all wrong = 20.4929577465)
+False-negative results = 2258(% of all wrong = 79.5070422535)
+Errors were made for this IDs:
+ENSMUST: 213
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 369
+ENSRNOG: 0
+ENSG: 1051
+GAK: 0
+ADH: 35
+ENSMUSG: 1156
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:16:16.569000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83635(% of total = 96.596290222)
+Wrong results = 2946(% of total = 3.40255480354)
+False-positive results  = 623(% of all wrong = 21.1473183978)
+False-negative results = 2323(% of all wrong = 78.8526816022)
+Errors were made for this IDs:
+ENSMUST: 218
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 405
+ENSRNOG: 0
+ENSG: 1018
+GAK: 0
+ADH: 32
+ENSMUSG: 1254
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:16:16.755000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83635(% of total = 96.596290222)
+Wrong results = 2946(% of total = 3.40255480354)
+False-positive results  = 623(% of all wrong = 21.1473183978)
+False-negative results = 2323(% of all wrong = 78.8526816022)
+Errors were made for this IDs:
+ENSMUST: 218
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 405
+ENSRNOG: 0
+ENSG: 1018
+GAK: 0
+ADH: 32
+ENSMUSG: 1254
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:22:12.529000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83639(% of total = 96.6009101199)
+Wrong results = 2942(% of total = 3.39793490564)
+False-positive results  = 636(% of all wrong = 21.6179469748)
+False-negative results = 2306(% of all wrong = 78.3820530252)
+Errors were made for this IDs:
+ENSMUST: 229
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 407
+ENSRNOG: 0
+ENSG: 1022
+GAK: 0
+ADH: 28
+ENSMUSG: 1240
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:27:46.039000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83750(% of total = 96.7291122866)
+Wrong results = 2831(% of total = 3.26973273891)
+False-positive results  = 566(% of all wrong = 19.9929353585)
+False-negative results = 2265(% of all wrong = 80.0070646415)
+Errors were made for this IDs:
+ENSMUST: 207
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 359
+ENSRNOG: 0
+ENSG: 1027
+GAK: 0
+ADH: 22
+ENSMUSG: 1206
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:27:49.710000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83750(% of total = 96.7291122866)
+Wrong results = 2831(% of total = 3.26973273891)
+False-positive results  = 566(% of all wrong = 19.9929353585)
+False-negative results = 2265(% of all wrong = 80.0070646415)
+Errors were made for this IDs:
+ENSMUST: 207
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 359
+ENSRNOG: 0
+ENSG: 1027
+GAK: 0
+ADH: 22
+ENSMUSG: 1206
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:31:08.634000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83664(% of total = 96.6297844818)
+Wrong results = 2917(% of total = 3.36906054376)
+False-positive results  = 622(% of all wrong = 21.3232773397)
+False-negative results = 2295(% of all wrong = 78.6767226603)
+Errors were made for this IDs:
+ENSMUST: 218
+KMK: 0
+AAT: 3
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 404
+ENSRNOG: 0
+ENSG: 1052
+GAK: 0
+ADH: 29
+ENSMUSG: 1202
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:34:14.684000
+Model: data/genes/skip-gram_neg_soft_100features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83810(% of total = 96.7984107551)
+Wrong results = 2771(% of total = 3.2004342704)
+False-positive results  = 556(% of all wrong = 20.0649584987)
+False-negative results = 2215(% of all wrong = 79.9350415013)
+Errors were made for this IDs:
+ENSMUST: 209
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 347
+ENSRNOG: 0
+ENSG: 1032
+GAK: 0
+ADH: 24
+ENSMUSG: 1144
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:37:15.505000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 82166(% of total = 94.8996327181)
+Wrong results = 4415(% of total = 5.09921230741)
+False-positive results  = 960(% of all wrong = 21.7440543601)
+False-negative results = 3455(% of all wrong = 78.2559456399)
+Errors were made for this IDs:
+ENSMUST: 290
+KMK: 0
+AAT: 118
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 670
+ENSRNOG: 0
+ENSG: 1546
+GAK: 0
+ADH: 56
+ENSMUSG: 1722
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:40:19.824000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 81928(% of total = 94.6247487931)
+Wrong results = 4653(% of total = 5.37409623247)
+False-positive results  = 991(% of all wrong = 21.2980872555)
+False-negative results = 3662(% of all wrong = 78.7019127445)
+Errors were made for this IDs:
+ENSMUST: 312
+KMK: 0
+AAT: 125
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 679
+ENSRNOG: 0
+ENSG: 1656
+GAK: 0
+ADH: 59
+ENSMUSG: 1807
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:43:18.570000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83748(% of total = 96.7268023377)
+Wrong results = 2833(% of total = 3.27204268786)
+False-positive results  = 602(% of all wrong = 21.2495587716)
+False-negative results = 2231(% of all wrong = 78.7504412284)
+Errors were made for this IDs:
+ENSMUST: 219
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 383
+ENSRNOG: 0
+ENSG: 1030
+GAK: 0
+ADH: 35
+ENSMUSG: 1149
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:46:19.340000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 82754(% of total = 95.5787577095)
+Wrong results = 3827(% of total = 4.42008731607)
+False-positive results  = 800(% of all wrong = 20.9041024301)
+False-negative results = 3027(% of all wrong = 79.0958975699)
+Errors were made for this IDs:
+ENSMUST: 256
+KMK: 0
+AAT: 57
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 544
+ENSRNOG: 0
+ENSG: 1423
+GAK: 0
+ADH: 44
+ENSMUSG: 1491
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:52:36.801000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 81676(% of total = 94.3336952253)
+Wrong results = 4905(% of total = 5.66514980019)
+False-positive results  = 1119(% of all wrong = 22.8134556575)
+False-negative results = 3786(% of all wrong = 77.1865443425)
+Errors were made for this IDs:
+ENSMUST: 391
+KMK: 0
+AAT: 173
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 728
+ENSRNOG: 0
+ENSG: 1689
+GAK: 0
+ADH: 55
+ENSMUSG: 1848
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:55:41.365000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83737(% of total = 96.7140976184)
+Wrong results = 2844(% of total = 3.28474740708)
+False-positive results  = 580(% of all wrong = 20.3938115331)
+False-negative results = 2264(% of all wrong = 79.6061884669)
+Errors were made for this IDs:
+ENSMUST: 205
+KMK: 0
+AAT: 10
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 375
+ENSRNOG: 0
+ENSG: 1020
+GAK: 0
+ADH: 26
+ENSMUSG: 1197
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 02:59:13.447000
+Model: data/genes/skip-gram_neg_soft_300features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83849(% of total = 96.8434547596)
+Wrong results = 2732(% of total = 3.15539026588)
+False-positive results  = 535(% of all wrong = 19.5827232796)
+False-negative results = 2197(% of all wrong = 80.4172767204)
+Errors were made for this IDs:
+ENSMUST: 196
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 339
+ENSRNOG: 0
+ENSG: 1049
+GAK: 0
+ADH: 29
+ENSMUSG: 1107
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:02:20.129000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83825(% of total = 96.8157353722)
+Wrong results = 2756(% of total = 3.18310965328)
+False-positive results  = 529(% of all wrong = 19.1944847605)
+False-negative results = 2227(% of all wrong = 80.8055152395)
+Errors were made for this IDs:
+ENSMUST: 191
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 338
+ENSRNOG: 0
+ENSG: 1035
+GAK: 0
+ADH: 28
+ENSMUSG: 1150
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:08:05.865000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83860(% of total = 96.8561594789)
+Wrong results = 2721(% of total = 3.14268554665)
+False-positive results  = 546(% of all wrong = 20.0661521499)
+False-negative results = 2175(% of all wrong = 79.9338478501)
+Errors were made for this IDs:
+ENSMUST: 202
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 344
+ENSRNOG: 0
+ENSG: 1003
+GAK: 0
+ADH: 30
+ENSMUSG: 1128
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:09:04.158000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83860(% of total = 96.8561594789)
+Wrong results = 2721(% of total = 3.14268554665)
+False-positive results  = 546(% of all wrong = 20.0661521499)
+False-negative results = 2175(% of all wrong = 79.9338478501)
+Errors were made for this IDs:
+ENSMUST: 202
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 344
+ENSRNOG: 0
+ENSG: 1003
+GAK: 0
+ADH: 30
+ENSMUSG: 1128
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:13:17.332000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83849(% of total = 96.8434547596)
+Wrong results = 2732(% of total = 3.15539026588)
+False-positive results  = 547(% of all wrong = 20.0219619327)
+False-negative results = 2185(% of all wrong = 79.9780380673)
+Errors were made for this IDs:
+ENSMUST: 194
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 353
+ENSRNOG: 0
+ENSG: 1027
+GAK: 0
+ADH: 28
+ENSMUSG: 1113
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:18:34.037000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 82669(% of total = 95.4805848791)
+Wrong results = 3912(% of total = 4.51826014645)
+False-positive results  = 835(% of all wrong = 21.3445807771)
+False-negative results = 3077(% of all wrong = 78.6554192229)
+Errors were made for this IDs:
+ENSMUST: 266
+KMK: 0
+AAT: 69
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 569
+ENSRNOG: 0
+ENSG: 1404
+GAK: 0
+ADH: 46
+ENSMUSG: 1547
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:21:39.380000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83859(% of total = 96.8550045044)
+Wrong results = 2722(% of total = 3.14384052112)
+False-positive results  = 551(% of all wrong = 20.242468773)
+False-negative results = 2171(% of all wrong = 79.757531227)
+Errors were made for this IDs:
+ENSMUST: 199
+KMK: 0
+AAT: 3
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 352
+ENSRNOG: 0
+ENSG: 1014
+GAK: 0
+ADH: 35
+ENSMUSG: 1109
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:21:55.510000
+Model: data/genes/skip-gram_neg_soft_500features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83791(% of total = 96.7764662401)
+Wrong results = 2790(% of total = 3.22237878543)
+False-positive results  = 533(% of all wrong = 19.1039426523)
+False-negative results = 2257(% of all wrong = 80.8960573477)
+Errors were made for this IDs:
+ENSMUST: 197
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 336
+ENSRNOG: 0
+ENSG: 1031
+GAK: 0
+ADH: 27
+ENSMUSG: 1188
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:26:17.161000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 82362(% of total = 95.1260077152)
+Wrong results = 4219(% of total = 4.8728373103)
+False-positive results  = 996(% of all wrong = 23.6074899265)
+False-negative results = 3223(% of all wrong = 76.3925100735)
+Errors were made for this IDs:
+ENSMUST: 316
+KMK: 0
+AAT: 82
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 680
+ENSRNOG: 0
+ENSG: 1467
+GAK: 0
+ADH: 53
+ENSMUSG: 1606
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:33:03.998000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83926(% of total = 96.9323877942)
+Wrong results = 2655(% of total = 3.0664572313)
+False-positive results  = 541(% of all wrong = 20.3766478343)
+False-negative results = 2114(% of all wrong = 79.6233521657)
+Errors were made for this IDs:
+ENSMUST: 191
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 350
+ENSRNOG: 0
+ENSG: 1000
+GAK: 0
+ADH: 32
+ENSMUSG: 1067
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:33:47.145000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83926(% of total = 96.9323877942)
+Wrong results = 2655(% of total = 3.0664572313)
+False-positive results  = 541(% of all wrong = 20.3766478343)
+False-negative results = 2114(% of all wrong = 79.6233521657)
+Errors were made for this IDs:
+ENSMUST: 191
+KMK: 0
+AAT: 6
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 350
+ENSRNOG: 0
+ENSG: 1000
+GAK: 0
+ADH: 32
+ENSMUSG: 1067
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:36:28.020000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83830(% of total = 96.8215102446)
+Wrong results = 2751(% of total = 3.1773347809)
+False-positive results  = 535(% of all wrong = 19.4474736459)
+False-negative results = 2216(% of all wrong = 80.5525263541)
+Errors were made for this IDs:
+ENSMUST: 191
+KMK: 0
+AAT: 5
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 344
+ENSRNOG: 0
+ENSG: 1009
+GAK: 0
+ADH: 33
+ENSMUSG: 1159
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:39:25.585000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83754(% of total = 96.7337321845)
+Wrong results = 2827(% of total = 3.26511284101)
+False-positive results  = 566(% of all wrong = 20.0212239123)
+False-negative results = 2261(% of all wrong = 79.9787760877)
+Errors were made for this IDs:
+ENSMUST: 197
+KMK: 0
+AAT: 7
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 369
+ENSRNOG: 0
+ENSG: 1009
+GAK: 0
+ADH: 31
+ENSMUSG: 1203
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:42:23.071000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83803(% of total = 96.7903259338)
+Wrong results = 2778(% of total = 3.20851909173)
+False-positive results  = 543(% of all wrong = 19.5464362851)
+False-negative results = 2235(% of all wrong = 80.4535637149)
+Errors were made for this IDs:
+ENSMUST: 197
+KMK: 0
+AAT: 8
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 346
+ENSRNOG: 0
+ENSG: 999
+GAK: 0
+ADH: 26
+ENSMUSG: 1194
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-03 03:45:22.590000
+Model: data/genes/skip-gram_neg_soft_1000features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 83779(% of total = 96.7626065464)
+Wrong results = 2802(% of total = 3.23623847913)
+False-positive results  = 587(% of all wrong = 20.9493219129)
+False-negative results = 2215(% of all wrong = 79.0506780871)
+Errors were made for this IDs:
+ENSMUST: 208
+KMK: 0
+AAT: 10
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 379
+ENSRNOG: 0
+ENSG: 1013
+GAK: 0
+ADH: 31
+ENSMUSG: 1154
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:42:39.774000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27593(% of total = 75.5599978093)
+Wrong results = 8924(% of total = 24.4372638151)
+False-positive results  = 907(% of all wrong = 10.1636037651)
+False-negative results = 8017(% of all wrong = 89.8363962349)
+Errors were made for this IDs:
+ENSMUST: 372
+KMK: 0
+AAT: 4817
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3123
+AFS: 0
+ENST: 535
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:43:41.795000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27570(% of total = 75.4970151706)
+Wrong results = 8947(% of total = 24.5002464538)
+False-positive results  = 931(% of all wrong = 10.4057225886)
+False-negative results = 8016(% of all wrong = 89.5942774114)
+Errors were made for this IDs:
+ENSMUST: 380
+KMK: 0
+AAT: 4821
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3118
+AFS: 0
+ENST: 551
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:44:43.167000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27573(% of total = 75.5052302974)
+Wrong results = 8944(% of total = 24.492031327)
+False-positive results  = 958(% of all wrong = 10.7110912343)
+False-negative results = 7986(% of all wrong = 89.2889087657)
+Errors were made for this IDs:
+ENSMUST: 384
+KMK: 0
+AAT: 4794
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3115
+AFS: 0
+ENST: 574
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:45:44.171000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27589(% of total = 75.5490443069)
+Wrong results = 8928(% of total = 24.4482173175)
+False-positive results  = 926(% of all wrong = 10.3718637993)
+False-negative results = 8002(% of all wrong = 89.6281362007)
+Errors were made for this IDs:
+ENSMUST: 381
+KMK: 0
+AAT: 4804
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3121
+AFS: 0
+ENST: 545
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:46:45.963000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27566(% of total = 75.4860616682)
+Wrong results = 8951(% of total = 24.5111999562)
+False-positive results  = 978(% of all wrong = 10.9261535024)
+False-negative results = 7973(% of all wrong = 89.0738464976)
+Errors were made for this IDs:
+ENSMUST: 405
+KMK: 0
+AAT: 4788
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3108
+AFS: 0
+ENST: 573
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:47:47.854000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27577(% of total = 75.5161837998)
+Wrong results = 8940(% of total = 24.4810778246)
+False-positive results  = 966(% of all wrong = 10.8053691275)
+False-negative results = 7974(% of all wrong = 89.1946308725)
+Errors were made for this IDs:
+ENSMUST: 392
+KMK: 0
+AAT: 4784
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3113
+AFS: 0
+ENST: 574
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:48:50.552000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Pro
+Total analysed seqs  = 36518
+Right results = 27567(% of total = 75.4888000438)
+Wrong results = 8950(% of total = 24.5084615806)
+False-positive results  = 944(% of all wrong = 10.5474860335)
+False-negative results = 8006(% of all wrong = 89.4525139665)
+Errors were made for this IDs:
+ENSMUST: 380
+KMK: 0
+AAT: 4811
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 3118
+AFS: 0
+ENST: 564
+ENSRNOG: 0
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 0
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:56:03.015000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33086(% of total = 94.2647938688)
+Wrong results = 2012(% of total = 5.73235704721)
+False-positive results  = 292(% of all wrong = 14.5129224652)
+False-negative results = 1720(% of all wrong = 85.4870775348)
+Errors were made for this IDs:
+ENSMUST: 292
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 810
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 910
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:57:03.392000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 66007(% of total = 76.2364001756)
+Wrong results = 20574(% of total = 23.76244485)
+False-positive results  = 7957(% of all wrong = 38.6750267328)
+False-negative results = 12617(% of all wrong = 61.3249732672)
+Errors were made for this IDs:
+ENSMUST: 2638
+KMK: 0
+AAT: 4489
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5319
+ENSRNOG: 0
+ENSG: 3451
+GAK: 0
+ADH: 971
+ENSMUSG: 3349
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:57:27.918000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33089(% of total = 94.2733411208)
+Wrong results = 2009(% of total = 5.72380979515)
+False-positive results  = 292(% of all wrong = 14.5345943255)
+False-negative results = 1717(% of all wrong = 85.4654056745)
+Errors were made for this IDs:
+ENSMUST: 292
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 807
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 910
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 16:58:53.056000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33088(% of total = 94.2704920368)
+Wrong results = 2010(% of total = 5.72665887917)
+False-positive results  = 294(% of all wrong = 14.6268656716)
+False-negative results = 1716(% of all wrong = 85.3731343284)
+Errors were made for this IDs:
+ENSMUST: 294
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 805
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 911
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:00:15.551000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 65930(% of total = 76.147467141)
+Wrong results = 20651(% of total = 23.8513778845)
+False-positive results  = 8050(% of all wrong = 38.9811631398)
+False-negative results = 12601(% of all wrong = 61.0188368602)
+Errors were made for this IDs:
+ENSMUST: 2638
+KMK: 0
+AAT: 4503
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5412
+ENSRNOG: 0
+ENSG: 3445
+GAK: 0
+ADH: 973
+ENSMUSG: 3322
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:00:17.070000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33072(% of total = 94.2249066925)
+Wrong results = 2026(% of total = 5.77224422348)
+False-positive results  = 310(% of all wrong = 15.3010858835)
+False-negative results = 1716(% of all wrong = 84.6989141165)
+Errors were made for this IDs:
+ENSMUST: 310
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 807
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 909
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:01:42.740000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33090(% of total = 94.2761902048)
+Wrong results = 2008(% of total = 5.72096071113)
+False-positive results  = 291(% of all wrong = 14.4920318725)
+False-negative results = 1717(% of all wrong = 85.5079681275)
+Errors were made for this IDs:
+ENSMUST: 291
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 809
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 908
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:03:07.082000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33090(% of total = 94.2761902048)
+Wrong results = 2008(% of total = 5.72096071113)
+False-positive results  = 294(% of all wrong = 14.6414342629)
+False-negative results = 1714(% of all wrong = 85.3585657371)
+Errors were made for this IDs:
+ENSMUST: 294
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 805
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 909
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:03:26.853000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 65977(% of total = 76.2017509413)
+Wrong results = 20604(% of total = 23.7970940842)
+False-positive results  = 7972(% of all wrong = 38.6915162104)
+False-negative results = 12632(% of all wrong = 61.3084837896)
+Errors were made for this IDs:
+ENSMUST: 2646
+KMK: 0
+AAT: 4497
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5326
+ENSRNOG: 0
+ENSG: 3462
+GAK: 0
+ADH: 972
+ENSMUSG: 3341
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:04:31.663000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33068(% of total = 94.2135103564)
+Wrong results = 2030(% of total = 5.78364055956)
+False-positive results  = 303(% of all wrong = 14.9261083744)
+False-negative results = 1727(% of all wrong = 85.0738916256)
+Errors were made for this IDs:
+ENSMUST: 303
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 817
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 910
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:06:37.507000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 66005(% of total = 76.2340902266)
+Wrong results = 20576(% of total = 23.7647547989)
+False-positive results  = 7985(% of all wrong = 38.807348367)
+False-negative results = 12591(% of all wrong = 61.192651633)
+Errors were made for this IDs:
+ENSMUST: 2642
+KMK: 0
+AAT: 4504
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5343
+ENSRNOG: 0
+ENSG: 3437
+GAK: 0
+ADH: 966
+ENSMUSG: 3330
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:09:44.184000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 65921(% of total = 76.1370723707)
+Wrong results = 20660(% of total = 23.8617726548)
+False-positive results  = 7982(% of all wrong = 38.6350435624)
+False-negative results = 12678(% of all wrong = 61.3649564376)
+Errors were made for this IDs:
+ENSMUST: 2636
+KMK: 0
+AAT: 4508
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5346
+ENSRNOG: 0
+ENSG: 3479
+GAK: 0
+ADH: 979
+ENSMUSG: 3357
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:12:51.734000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 66025(% of total = 76.2571897161)
+Wrong results = 20556(% of total = 23.7416553094)
+False-positive results  = 7941(% of all wrong = 38.6310566258)
+False-negative results = 12615(% of all wrong = 61.3689433742)
+Errors were made for this IDs:
+ENSMUST: 2635
+KMK: 0
+AAT: 4493
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5306
+ENSRNOG: 0
+ENSG: 3448
+GAK: 0
+ADH: 964
+ENSMUSG: 3351
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:15:59.618000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mixed
+Total analysed seqs  = 86582
+Right results = 65989(% of total = 76.215610635)
+Wrong results = 20592(% of total = 23.7832343905)
+False-positive results  = 7978(% of all wrong = 38.7432012432)
+False-negative results = 12614(% of all wrong = 61.2567987568)
+Errors were made for this IDs:
+ENSMUST: 2624
+KMK: 0
+AAT: 4512
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 5354
+ENSRNOG: 0
+ENSG: 3433
+GAK: 0
+ADH: 962
+ENSMUSG: 3353
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:40:10.719000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33094(% of total = 94.2875865409)
+Wrong results = 2004(% of total = 5.70956437505)
+False-positive results  = 291(% of all wrong = 14.5209580838)
+False-negative results = 1713(% of all wrong = 85.4790419162)
+Errors were made for this IDs:
+ENSMUST: 291
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 805
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 908
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:41:35.314000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33099(% of total = 94.301831961)
+Wrong results = 1999(% of total = 5.69531895496)
+False-positive results  = 288(% of all wrong = 14.4072036018)
+False-negative results = 1711(% of all wrong = 85.5927963982)
+Errors were made for this IDs:
+ENSMUST: 288
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 801
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 910
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:43:00.230000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33102(% of total = 94.3103792131)
+Wrong results = 1996(% of total = 5.6867717029)
+False-positive results  = 284(% of all wrong = 14.2284569138)
+False-negative results = 1712(% of all wrong = 85.7715430862)
+Errors were made for this IDs:
+ENSMUST: 284
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 804
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 908
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:44:24.776000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33090(% of total = 94.2761902048)
+Wrong results = 2008(% of total = 5.72096071113)
+False-positive results  = 290(% of all wrong = 14.4422310757)
+False-negative results = 1718(% of all wrong = 85.5577689243)
+Errors were made for this IDs:
+ENSMUST: 290
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 811
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 907
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:45:49.976000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33096(% of total = 94.293284709)
+Wrong results = 2002(% of total = 5.70386620701)
+False-positive results  = 284(% of all wrong = 14.1858141858)
+False-negative results = 1718(% of all wrong = 85.8141858142)
+Errors were made for this IDs:
+ENSMUST: 284
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 806
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 912
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:47:16.909000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33089(% of total = 94.2733411208)
+Wrong results = 2009(% of total = 5.72380979515)
+False-positive results  = 292(% of all wrong = 14.5345943255)
+False-negative results = 1717(% of all wrong = 85.4654056745)
+Errors were made for this IDs:
+ENSMUST: 292
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 808
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 909
+CDNA: 0
+
+ ----------------------------------------
+
+data/genes/BagOfCentroids.csv 2017-06-06 17:48:42.864000
+Model: data/genes/skip-gram_neg_soft_1features_100context_Mouse
+Total analysed seqs  = 35099
+Right results = 33092(% of total = 94.2818883729)
+Wrong results = 2006(% of total = 5.71526254309)
+False-positive results  = 292(% of all wrong = 14.556331007)
+False-negative results = 1714(% of all wrong = 85.443668993)
+Errors were made for this IDs:
+ENSMUST: 292
+KMK: 0
+AAT: 0
+EEG: 0
+NCRNA: 0
+AKF: 0
+EEC: 0
+AFS: 0
+ENST: 0
+ENSRNOG: 804
+ENSG: 0
+GAK: 0
+ADH: 0
+ENSMUSG: 910
+CDNA: 0
+
+ ----------------------------------------
+

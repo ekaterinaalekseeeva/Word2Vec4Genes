@@ -43,7 +43,28 @@ models = ["data/genes/skip-gram_ns_softmax_300features_10context_Eu",       # 0 
           "data/genes/skip-gram_neg_soft_50features_100context_Mixed",      # 28  mixed + 100 context + 50 features (!!!)
           "data/genes/cbow_neg_soft_50features_100context_Mixed",           # 29  CBOW mixed + 100 context + 50 features
           "data/genes/cbow_neg_soft_50features_100context_Pro",             # 30  CBOW prokaryotes + 100 context + 50 features
-          "data/genes/cbow_neg_soft_50features_100context_Mouse"]           # 31  CBOW mouse + 100 context + 50 features
+          "data/genes/cbow_neg_soft_50features_100context_Mouse",           # 31  CBOW mouse + 100 context + 50 features
+          "data/genes/skip-gram_neg_soft_10features_100context_Pro",        # 32  prokaryotes + 10 features
+          "data/genes/skip-gram_neg_soft_100features_100context_Pro",       # 33  prokaryotes + 100 features
+          "data/genes/skip-gram_neg_soft_300features_100context_Pro",       # 34  prokaryotes + 300 features
+          "data/genes/skip-gram_neg_soft_500features_100context_Pro",       # 35  prokaryotes + 500 features
+          "data/genes/skip-gram_neg_soft_1000features_100context_Pro",      # 36  prokaryotes + 1000 feature
+          "data/genes/skip-gram_neg_soft_50features_1context_Pro",          # 37  prokaryotes + 1 context
+          "data/genes/skip-gram_neg_soft_50features_5context_Pro",          # 38  prokaryotes + 5 context
+          "data/genes/skip-gram_neg_soft_50features_20context_Pro",         # 39  prokaryotes + 20 context
+          "data/genes/skip-gram_neg_soft_50features_50context_Pro",         # 40  prokaryotes + 50 context
+          "data/genes/skip-gram_neg_soft_50features_50context_Mixed",       # 41  mixed + 50 context
+          "data/genes/skip-gram_neg_soft_50features_20context_Mixed",       # 42  mixed + 20 context
+          "data/genes/skip-gram_neg_soft_50features_5context_Mixed",        # 43  mixed + 5 context
+          "data/genes/skip-gram_neg_soft_50features_1context_Mixed",        # 44  mixed + 1 context
+          "data/genes/skip-gram_neg_soft_10features_100context_Mixed",      # 45  mixed + 10 features
+          "data/genes/skip-gram_neg_soft_100features_100context_Mixed",     # 46  mixed + 100 features
+          "data/genes/skip-gram_neg_soft_300features_100context_Mixed",     # 47  mixed + 300 features
+          "data/genes/skip-gram_neg_soft_500features_100context_Mixed",     # 48  mixed + 500 features
+          "data/genes/skip-gram_neg_soft_1000features_100context_Mixed",    # 49  mixed + 1000 features
+          "data/genes/skip-gram_neg_soft_1features_100context_Mixed",       # 50  mixed + 1 feature
+          "data/genes/skip-gram_neg_soft_1features_100context_Pro",         # 51  prokaryotes + 1 feature
+          "data/genes/skip-gram_neg_soft_1features_100context_Mouse"]       # 52  mouse + 1 feature
 
 # Bases:
 bases = {"full": "data/genes/full/",
@@ -59,10 +80,10 @@ bag = "data/genes/BagOfCentroids.csv"
 vec = "data/genes/Genes_AverageVectors.csv"
 
 # Parameters:
-n = 1  # number of repetitions
-model = models[28]
-base = bases["mixed"]
-method = vec
+n = 7  # number of repetitions
+model = models[52]
+base = bases["mouse"]
+method = bag
 
 total = 0
 true_res = 0

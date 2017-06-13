@@ -72,7 +72,7 @@ print "Read %d labeled train reviews and %d labeled test reviews, " % (train["se
                                                                        test["sequence"].size)
 
 # Download the punkt tokenizer for sentence splitting
-nltk.download()
+# nltk.download()
 
 # Load the punkt tokenizer
 tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
@@ -94,10 +94,10 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', \
 
 
 # Set values for various parameters
-skip_gram = 0  # skip-gram = 1, cbow = 0
+skip_gram = 1  # skip-gram = 1, cbow = 0
 negative_sampling = 1
 hie_softmax = 1
-num_features = 50  # Word vector dimensionality
+num_features = 1  # Word vector dimensionality
 context = 100  # Context window size
 downsampling = 0  # Downsample setting for frequent words
 

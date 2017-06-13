@@ -37,6 +37,7 @@ def bag_of_centroids(model_name, base):
     # Set "k" (num_clusters) to be 1/5th of the vocabulary size, or an
     # average of 5 words per cluster
     word_vectors = model.syn0
+    # num_clusters = 2
     num_clusters = word_vectors.shape[0] / 5
 
     # Initalize a k-means object and use it to extract centroids
@@ -54,19 +55,19 @@ def bag_of_centroids(model_name, base):
     word_centroid_map = dict(zip(model.index2word, idx))
 
     # Print the first ten clusters
-    for cluster in xrange(0, max(word_centroid_map.values()) + 1):
-        #
-        # Print the cluster number
-        print "\nCluster %d" % cluster
-        #
-        # Find all of the words for that cluster number, and print them out
-        words = []
-        for i in xrange(0, len(word_centroid_map.values())):
-            if (word_centroid_map.values()[i] == cluster):
-                words.append(word_centroid_map.keys()[i])
-
-        print 'words[] length ' + str(len(words))
-        print words
+    # for cluster in xrange(0, max(word_centroid_map.values()) + 1):
+    #     #
+    #     # Print the cluster number
+    #     print "\nCluster %d" % cluster
+    #     #
+    #     # Find all of the words for that cluster number, and print them out
+    #     words = []
+    #     for i in xrange(0, len(word_centroid_map.values())):
+    #         if (word_centroid_map.values()[i] == cluster):
+    #             words.append(word_centroid_map.keys()[i])
+    #
+    #     print 'words[] length ' + str(len(words))
+    #     print words
 
     # Create clean_train_reviews and clean_test_reviews as we did before
     #

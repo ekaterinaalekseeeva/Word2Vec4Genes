@@ -337,3 +337,226 @@ False-negative results = 3737(% of all wrong = 88.2616910723)
 
  ----------------------------------------
 
+Starting 7 times  with model data/genes/skip-gram_neg_soft_10features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/Genes_AverageVectors.csv
+Total analysed seqs  = 255619
+Right results = 236328(% of total = 92.4532213959)
+Wrong results = 19291(% of total = 7.54677860409)
+False-positive results  = 28(% of all wrong = 0.145145404593)
+False-negative results = 19263(% of all wrong = 99.8548545954)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_100features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/Genes_AverageVectors.csv
+Total analysed seqs  = 255619
+Right results = 238378(% of total = 93.25519621)
+Wrong results = 17241(% of total = 6.74480379002)
+False-positive results  = 23(% of all wrong = 0.133402934865)
+False-negative results = 17218(% of all wrong = 99.8665970651)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_10features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 246836(% of total = 96.561382645)
+Wrong results = 8783(% of total = 3.43587897945)
+False-positive results  = 166(% of all wrong = 1.89001480132)
+False-negative results = 8617(% of all wrong = 98.1099851987)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_100features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 246795(% of total = 96.5453435879)
+Wrong results = 8824(% of total = 3.45191803651)
+False-positive results  = 164(% of all wrong = 1.85856754306)
+False-negative results = 8660(% of all wrong = 98.1414324569)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_300features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 247332(% of total = 96.7554161157)
+Wrong results = 8287(% of total = 3.24184550867)
+False-positive results  = 172(% of all wrong = 2.07554000241)
+False-negative results = 8115(% of all wrong = 97.9244599976)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_500features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 247172(% of total = 96.6928246735)
+Wrong results = 8447(% of total = 3.30443695086)
+False-positive results  = 152(% of all wrong = 1.79945542796)
+False-negative results = 8295(% of all wrong = 98.200544572)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1000features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 247402(% of total = 96.7827998717)
+Wrong results = 8217(% of total = 3.21446175272)
+False-positive results  = 172(% of all wrong = 2.09322137033)
+False-negative results = 8045(% of all wrong = 97.9067786297)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_5context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 245658(% of total = 96.1005531519)
+Wrong results = 9961(% of total = 3.89670847253)
+False-positive results  = 232(% of all wrong = 2.32908342536)
+False-negative results = 9729(% of all wrong = 97.6709165746)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_1context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 244846(% of total = 95.7829015828)
+Wrong results = 10773(% of total = 4.21436004162)
+False-positive results  = 531(% of all wrong = 4.92898913952)
+False-negative results = 10242(% of all wrong = 95.0710108605)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_20context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 246461(% of total = 96.4146839523)
+Wrong results = 9158(% of total = 3.58257767207)
+False-positive results  = 182(% of all wrong = 1.98733347893)
+False-negative results = 8976(% of all wrong = 98.0126665211)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_50context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 244285(% of total = 95.5634403386)
+Wrong results = 11334(% of total = 4.43382128578)
+False-positive results  = 209(% of all wrong = 1.84400917593)
+False-negative results = 11125(% of all wrong = 98.1559908241)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_50context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 578919(% of total = 95.5195240185)
+Wrong results = 27148(% of total = 4.47932100701)
+False-positive results  = 5854(% of all wrong = 21.5632827464)
+False-negative results = 21294(% of all wrong = 78.4367172536)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_20context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 583533(% of total = 96.2808171939)
+Wrong results = 22534(% of total = 3.71802783158)
+False-positive results  = 4768(% of all wrong = 21.1591373036)
+False-negative results = 17766(% of all wrong = 78.8408626964)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_5context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 580210(% of total = 95.732534311)
+Wrong results = 25857(% of total = 4.26631071453)
+False-positive results  = 5641(% of all wrong = 21.8161426306)
+False-negative results = 20216(% of all wrong = 78.1838573694)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_50features_1context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 566408(% of total = 93.4552546389)
+Wrong results = 39659(% of total = 6.54359038665)
+False-positive results  = 11304(% of all wrong = 28.5029879725)
+False-negative results = 28355(% of all wrong = 71.4970120275)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_10features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 586509(% of total = 96.7718463422)
+Wrong results = 19558(% of total = 3.22699868333)
+False-positive results  = 3974(% of all wrong = 20.3190510277)
+False-negative results = 15584(% of all wrong = 79.6809489723)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_100features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 586061(% of total = 96.6979279758)
+Wrong results = 20006(% of total = 3.30091704973)
+False-positive results  = 4142(% of all wrong = 20.7037888633)
+False-negative results = 15864(% of all wrong = 79.2962111367)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_300features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 579981(% of total = 95.694750146)
+Wrong results = 26086(% of total = 4.3040948795)
+False-positive results  = 5553(% of all wrong = 21.2872805336)
+False-negative results = 20533(% of all wrong = 78.7127194664)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_500features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 585657(% of total = 96.6312694489)
+Wrong results = 20410(% of total = 3.36757557658)
+False-positive results  = 4111(% of all wrong = 20.1420872122)
+False-negative results = 16299(% of all wrong = 79.8579127878)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1000features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 585313(% of total = 96.5745107033)
+Wrong results = 20754(% of total = 3.42433432221)
+False-positive results  = 4319(% of all wrong = 20.810446179)
+False-negative results = 16435(% of all wrong = 79.189553821)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mouse on base data/genes/mouse_and_rat/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mouse on base data/genes/mouse_and_rat/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Pro on base data/genes/prokaryotes/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 255626
+Right results = 193035(% of total = 75.5146190137)
+Wrong results = 62584(% of total = 24.4826426107)
+False-positive results  = 6610(% of all wrong = 10.5618049342)
+False-negative results = 55974(% of all wrong = 89.4381950658)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mouse on base data/genes/mouse_and_rat/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mouse on base data/genes/mouse_and_rat/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 245693
+Right results = 231583(% of total = 94.2570606407)
+Wrong results = 14103(% of total = 5.74009027526)
+False-positive results  = 2076(% of all wrong = 14.7202722825)
+False-negative results = 12027(% of all wrong = 85.2797277175)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mixed on base data/genes/pro+eu (mixed)/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 606074
+Right results = 461854(% of total = 76.2042258866)
+Wrong results = 144213(% of total = 23.7946191389)
+False-positive results  = 55865(% of all wrong = 38.7378391685)
+False-negative results = 88348(% of all wrong = 61.2621608315)
+
+ ----------------------------------------
+
+Starting 7 times  with model data/genes/skip-gram_neg_soft_1features_100context_Mouse on base data/genes/mouse_and_rat/ by method data/genes/BagOfCentroids.csv
+Total analysed seqs  = 245693
+Right results = 231662(% of total = 94.2892145889)
+Wrong results = 14024(% of total = 5.70793632704)
+False-positive results  = 2021(% of all wrong = 14.4110096977)
+False-negative results = 12003(% of all wrong = 85.5889903023)
+
+ ----------------------------------------
+
