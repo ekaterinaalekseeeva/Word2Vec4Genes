@@ -64,13 +64,16 @@ models = ["data/genes/skip-gram_ns_softmax_300features_10context_Eu",       # 0 
           "data/genes/skip-gram_neg_soft_1000features_100context_Mixed",    # 49  mixed + 1000 features
           "data/genes/skip-gram_neg_soft_1features_100context_Mixed",       # 50  mixed + 1 feature
           "data/genes/skip-gram_neg_soft_1features_100context_Pro",         # 51  prokaryotes + 1 feature
-          "data/genes/skip-gram_neg_soft_1features_100context_Mouse"]       # 52  mouse + 1 feature
+          "data/genes/skip-gram_neg_soft_1features_100context_Mouse",       # 52  mouse + 1 feature
+          "data/genes/skip-gram_neg_soft_50features_100context_TruePro",    # 53  true pro
+          "data/genes/skip-gram_neg_soft_300features_100context_TruePro"]    # 54  true pro + 300 features
 
 # Bases:
 bases = {"full": "data/genes/full/",
          "mixed": "data/genes/pro+eu (mixed)/",
          "pure_pro": "data/genes/pure_pro(+pro_nc)/",
          "prokaryotes": "data/genes/prokaryotes/",
+         "pro": "data/genes/pro/",
          "eukaryotes": "data/genes/eu(human+mouse+rat)/",
          "mouse": "data/genes/mouse_and_rat/",
          "human": "data/genes/human/"}
@@ -80,9 +83,9 @@ bag = "data/genes/BagOfCentroids.csv"
 vec = "data/genes/Genes_AverageVectors.csv"
 
 # Parameters:
-n = 7  # number of repetitions
-model = models[52]
-base = bases["mouse"]
+n = 3  # number of repetitions
+model = models[54]
+base = bases["pro"]
 method = bag
 
 total = 0

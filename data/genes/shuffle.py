@@ -1,8 +1,8 @@
 import random
 
 
-in_file = open('human/genesTrainData_codones_.tsv')
-out = open('human/genesTrainDataShuffle.tsv', 'w+')
+in_file = open('pro/genesTestData_codones.tsv')
+out = open('pro/genesTestDataShuffle.tsv', 'w+')
 # # in_file = open('genesUnlabeledTrainData_codones.tsv')
 # out = open('genesUnlabeledTrainDataShuffle.tsv', 'w+')
 # in_file = open('human/genesTestData_codones_.tsv')

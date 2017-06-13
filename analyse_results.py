@@ -13,21 +13,23 @@ def analyse_results(file_name):
     total = 0
     i = 0
 
-    ids = {"ENSG": 0,
-           "ENSMUSG": 0,
-           "ENSRNOG": 0,
-           "KMK": 0,
-           "ADH": 0,
-           "AAT": 0,
-           "EEC": 0,
-           "AKF": 0,
-           "GAK": 0,
-           "AFS": 0,
-           "EEG": 0,
-           "CDNA": 0,
-           "ENST": 0,
-           "ENSMUST": 0,
-           "NCRNA": 0}
+    ids = {">ENSG": 0,
+           ">ENSMUSG": 0,
+           ">ENSRNOG": 0,
+           ">KMK": 0,
+           ">ADH": 0,
+           ">ADI": 0,
+           ">AAT": 0,
+           ">AAW": 0,
+           ">EEC": 0,
+           ">AKF": 0,
+           ">GAK": 0,
+           ">AFS": 0,
+           ">EEG": 0,
+           ">CDNA": 0,
+           ">ENST": 0,
+           ">ENSMUST": 0,
+           ">NCRNA": 0}
     model_name = ''
 
     for line in in_file.readlines():

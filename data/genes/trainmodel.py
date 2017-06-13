@@ -52,7 +52,8 @@ def sequence_to_sentences(sequence, tokenizer):
 # base = "pro+eu (mixed)/"
 # base = "prokaryotes/"
 # base = "pure_pro(+pro_nc)/"
-base =  "mouse_and_rat/"
+base = "pro/"
+# base =  "mouse_and_rat/"
 # base = "eu(human+mouse+rat)/"
 # base =  "human/"
 
@@ -97,7 +98,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', \
 skip_gram = 1  # skip-gram = 1, cbow = 0
 negative_sampling = 1
 hie_softmax = 1
-num_features = 1  # Word vector dimensionality
+num_features = 300  # Word vector dimensionality
 context = 100  # Context window size
 downsampling = 0  # Downsample setting for frequent words
 
@@ -138,6 +139,8 @@ elif base == "pro+eu (mixed)/":
     b = "Mixed"
 elif base == "prokaryotes/":
     b = "Pro"
+elif base == "pro/":
+    b = "TruePro"
 elif base == "pure_pro(+pro_nc)/":
     b = "PurePro"
 elif base == "mouse_and_rat/":
