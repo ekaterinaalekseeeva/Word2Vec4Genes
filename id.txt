@@ -1,0 +1,30 @@
+ID генов и не генов
+Гены:
+ человек: ENSG
+ мышь: ENSMUSG
+ крыса: ENSRNOG
+ actinobacillus_muris: KMK
+ bacillus_selenitireducen: ADH, ADI
+ bacillus_thuringiensis_serovar_konkukian: AAT, AAW
+ bacteroides_pectinophilus: EEC
+ brevibacterium_flavum: AKF (-)
+ chrysanthemum_coronarium_phytoplasma: GAK  (-)
+ clostridium_acidurici: AFS  (-)
+ clostridium_asparagiforme: EEG  (-)
+ noname бактерии: CDNA
+ 
+Не гены:
+ человек: ENST
+ мышь: ENSMUST
+ noname бактерии: NCRNA
+ 
+ 
+Базы:
+eu (human+mouse+rat) - человек (к и нк), мышь (к и нк), крыса (к)
+full - человек (к и нк), мышь (к и нк), AAT (к), ADH (к), EEC (к), KMK (к), noname (к и нк)
+human - человек (к и нк)
+mouse and rat - мышь (к и нк) и крыса (к)
+pro+eu (mixed) - человек (к и нк), мышь (к и нк), ААТ (к), ADH (к), EEC (к), KMK (к)
+prokaryotes - AAT (к), EEC (к), ADH (к), KMK (к), человек (нк), крыса (нк)
+pure_pro - noname (к и нк)
+pro - AAT (к), EEC (к), ADH (к), KMK (к), noname (к и нк)
